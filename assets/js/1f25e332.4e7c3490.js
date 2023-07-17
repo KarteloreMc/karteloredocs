@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[4578],{2807:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/karteloredocs/blog/tags/facebook","allTagsPath":"/karteloredocs/blog/tags","count":1}')}}]);

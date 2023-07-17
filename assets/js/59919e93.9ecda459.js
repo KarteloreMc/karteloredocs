@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[6856],{291:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/karteloredocs/blog/tags/docusaurus","allTagsPath":"/karteloredocs/blog/tags","count":4}')}}]);
