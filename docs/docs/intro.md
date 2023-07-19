@@ -2,46 +2,28 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# 🌍 Witamy na serwerze KarteLore! 
 
-Let's discover **Docusaurus in less than 5 minutes**.
+- IP: kartelore.pl (1.18.2-1.20.1)
+- Mapa: tubedziemapa
+- Strona: tubedziestrona
 
-## Getting Started
+## Pierwszy Geopolityczny serwer w Polsce!
+Kartelore to nowy oraz pierwszy na skale Polski serwer Geopolityczny, osadzony w średniowieczu 1444 roku. Na serwerze jest niezliczenie wiele smaczków dodających klimatu średniowiecza: ok. 50 średniowiecznych broni, kilamtyczny resourcepack, machiny oblężnicze i wiele innych!
 
-Get started by **creating a new site**.
+🎮 Dołącz już teraz do serwera KarteLore i wejdź w świat podbojów, polityki, handlu i nieskończonych możliwości!
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+**To Ty kształtujesz historię!**
 
-### What you'll need
-
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+## Więcej o serwerze
+- ⚙ Brak wymaganych modów.
+- 🏴󠁭󠁶󠁵󠁮󠁿 Pierwszy w polsce plugin na państwa z systemem prowincji z gry Europa Universalis 4
+- ⚔️ 45 nowych broni takich jak: Maczuga, Buława, Włócznia, Topór bojowy i wiele innych!
+- 🗺 Mapa **Europy** w skali 1:500
+- 🏰 Geopolityczny i średniowieczny roleplay.
+- 🔊 Immersywne dźwięki otoczenia w zależności od biomu
+- 💰 Rozwinięty system ekonomii i handlu.
+- 🪑 788 modeli mebli średniowiecznych!
+- 💣 Machiny oblężnicze!
+- 🚢 Statki!
+- 🖼️ Przyjemny dla oka wygląd serwera.
