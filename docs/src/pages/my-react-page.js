@@ -1,4 +1,4 @@
-import React from 'react';
+simport React from 'react';
 import Layout from '@theme/Layout';
 
 export default function MyReactPage() {
