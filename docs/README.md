@@ -1,4 +1,4 @@
-# ZAJEBISTA STRONA DLA WIDZA
+--ifm-color-primary	 ZAJEBISTA STRONA DLA WIDZA
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
