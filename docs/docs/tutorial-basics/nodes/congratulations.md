@@ -32,7 +32,7 @@ Plugin więc pogłębia handel między graczami, ponieważ miasto nie mające np
 :::info
 Zajmowanie prowincji kosztuje **power** miasta. Dostajesz więcej powera mając więcej graczy oraz więcej czasu spędzonego na serwerze. Prowincje z ważniejszymi surowcami np. stal są droższe.
 :::
-
+test
 
 
 
