@@ -1,4 +1,4 @@
---ifm-color-primary: #25c2a0; ZAJEBISTA STRONA DLA WIDZA
+ #25c2a0;ZAJEBISTA STRONA DLA WIDZA
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
