@@ -32,7 +32,21 @@ Plugin więc pogłębia handel między graczami, ponieważ miasto nie mające np
 :::info
 Zajmowanie prowincji kosztuje **power** miasta. Dostajesz więcej powera mając więcej graczy oraz więcej czasu spędzonego na serwerze. Prowincje z ważniejszymi surowcami np. stal są droższe.
 :::
-test
+# Przychód Państwa
+Co godzinę otrzymujemy przychód zasobów z miasta ze wszystkich prowincji, bądź okupowanych prowincji.
+
+## Jak odebrać przychód miasta?
+- Wpisz **/t income** aby otworzyć skrzynkę przychodów miasta.
+
+# Jak stworzyć państwo
+1. Stwórz państwo wpisując komendę /n create (nazwapanstwa) zamień (nazwapanstwa) na nazwę miasta którą chcesz.
+2. Zaproś innych komendą /n invite (nazwapanstwa)
+
+
+
+
+
+
 
 
 
