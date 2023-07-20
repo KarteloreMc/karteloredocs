@@ -14,8 +14,8 @@ title: Państwa
 - Gracze tworzą miasta i zajmują prowincje, by korzystać z ich zasobów.
 - Podczas wojny możesz przejmować prowincje innych miast.
 
-:::note
-Plugin pogłębia handel między graczami, ponieważ miasto nie mające np. żelaza musi je zdobyć poprzez handel.
+:::note Notka
+Plugin więc pogłębia handel między graczami, ponieważ miasto nie mające np. żelaza musi je zdobyć poprzez handel.
 :::
 
 # Jak stworzyć miasto?
@@ -29,7 +29,7 @@ Plugin pogłębia handel między graczami, ponieważ miasto nie mające np. żel
 - Udaj się do prowincji, którą chcesz zająć i wpisz **/t claim**,
 - Jeżeli po jakimś czasie chcesz pozbyć się prowincji wpisz **/t unclaim**
 
-:::info
+:::info  Informacja
 Zajmowanie prowincji kosztuje **power** miasta. Dostajesz więcej powera, mając więcej graczy oraz więcej czasu spędzonego na serwerze. Prowincje z ważniejszymi surowcami np. stal są droższe.
 :::
 # Przychód Państwa
