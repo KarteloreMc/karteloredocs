@@ -32,9 +32,14 @@ Plugin więc pogłębia handel między graczami, ponieważ miasto nie mające np
 :::info  Informacja
 Zajmowanie prowincji kosztuje **power** miasta. Dostajesz więcej powera, mając więcej graczy oraz więcej czasu spędzonego na serwerze. Prowincje z ważniejszymi surowcami np. stal są droższe.
 :::
-## Przychód Państwa
-Co godzinę otrzymujemy przychód zasobów z miasta ze wszystkich prowincji, bądź okupowanych prowincji.
+## Jak sprawdzić zasoby prowincji?
+Zasoby prowincji można sprawdzić na 2 sposoby albo przez wpisanie komendy **/nodes territory**, albo poprzez wejście na stronę mapy serwera$, wybranie prowincji lewym przyciskiem myszy oraz najechanie na ikonkę surowca w lewym dolnym rogu.
 
+
+## Przychód Miasta
+Każda prowincja z ustalonym income, co godzinę generuje surowce, które można odebrać używając komendy **/t income**. Używając tej komendy można odebrać zasoby z całego miasta bez konieczności przemieszczania się do poszczególnych prowincji. Podczas okupacji, okupant otrzymuje 40% zasobów prowincji, jednak nie ponosi kosztów w postaci **power`a**.
+
+Income można sprawdzić poprzez stronę mapy serwera, bądź poprzez grę.
 ## Jak odebrać przychód miasta?
 - Wpisz **/t income** aby otworzyć skrzynkę przychodów miasta.
 
