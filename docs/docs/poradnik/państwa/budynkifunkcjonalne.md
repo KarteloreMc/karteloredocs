@@ -27,5 +27,5 @@ Różne itemy np. stal potrzebują **rafinerii** do ich wytworzenia, którą trz
 - Każda prowincja może mieć x typów rafinerii.
 
 
-
+rucham ci rodzine
 
