@@ -7,7 +7,7 @@ Jak dobrze wiecie, nowa edycja będzie opierać się na czasach średniowiecznyc
 
 By urozmaicić chęć budowania, dodano **budynki funkcjonalne**! Na czym one polegają?
 
-# Tiery miast
+## Tiery miast
 Jeżeli zbudujesz fajny budynek w prowincji, otrzymasz do niej fajne bonusy. W zależności od jakości budynku którą będzie oceniać administracja, twoje miasto dostanie bonus w zależności od **tieru miasta**.
 
 ### Tier 1
