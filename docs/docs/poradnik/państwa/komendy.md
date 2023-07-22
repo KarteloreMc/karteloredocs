@@ -27,37 +27,33 @@ Służy do zarządzania miastem gracza.
 - /town kick `gracz`: Wyrzuca innego gracza z twojego miasta (tylko dla liderów i oficerów).
 - /town spawn: Teleportuje się do głównego spawnpointa miasta.
 	- /town spawn [outpost]: Teleport to an outpost's spawn point.
-- /town setspawn: Zmienia spawnpoint twojego miasta na inną lokacje w głównej prowincji miasta$(homechunk) tylko dla lidera miasta).
+- /town setspawn: Zmienia spawnpoint twojego miasta na inną lokacje w głównej prowincji miasta$(homechunk) (tylko dla lidera miasta).
 - /town list: Wyświetla listę wszystkich miast.
-- /town info: View your town's name, leader, officers, residents, and claims.
-- /town info `miasto`: View details of another town
-- /town online: View your town's online players
-- /town online `miasto`: View another town's online players
-- /town color [r] [g] [b]: Set town territory color for dynmap. Town leader only.
-- /town claim: Claim a contiguous territory for your town. Town leader and officers only.
-- /town unclaim: Abandon your town's claim over a territory
-- /town income: Collect income from territory bonuses. Town leader and officers only.
-- /town prefix [prefix]: Set personal chat prefix
-- /town prefix `gracz` [prefix]: Set a player's prefix (leader and officers only)
-- /town suffix [suffix]: Set personal chat suffix
-- /town suffix `gracz` [suffix]: Set a player's suffix (leader and officers only)
-- /town rename [new name]: Rename your town. Town leader only.
-- /town map: Prints territory map into chat for player
-- /town minimap [3|4|5]: Turns on/off territory chunks minimap on sidebar. Optionally specify size value: 3, 4, or 5.
-- /town permissions [type] [group] [allow/deny]: Set permissions for interacting in town territory. [type] can be: interact, build, destroy, chests, items [group] can be: nation, ally, outsider. Last entry is either "allow" or "deny"
-- /town protect: Toggle protecting/unprotecting chests with mouse click.
-- /town protect show: Shows protected chests with particles
-- /town trust `nazwa`: Mark player in town as trusted. Leader and officers only.
-- /town untrust `nazwa`: Mark player in town as untrusted. Leader and officers only.
-- /town capital: Move town home territory to your current player location. (This also changes town spawn location.)
-- /town annex: Annex an occupied territory and add it to your town
+- /town info: Wyświetla nazwę miasta, lidera, oficerów, residents i zajęte prowincje.
+- /town info `miasto`: Wyświetla informacje innego miasta.
+- /town online: Wyświetla graczy online twojego miasta.
+- /town online `miasto`: Wyświetla graczy online innego miasta.
+- /town color [r] [g] [b]: Ustawia kolor miasta na dynmapie$ (tylko dla lidera).
+- /town claim: Zajmuje prowincje dla twojego miasta (tylko dla liderów i oficerów)
+- /town unclaim: Przestaje zajmować prowincję w której jesteś.
+- /town income: Zbiera przychód miast i rafinerii (tylko dla liderów i oficerów).
+- /town rename [nowa nazwa]: Zmienia nazwę twojego miasta (tylko dla lidera miasta)
+- /town map: Wyświetla mapę prowincji dla gracza na czat.
+- /town minimap [3|4|5]: Włącza/wyłącza widok chunków prowincji na minimapie po prawej stronie. Opcjonalnie możesz wybrać jej wielkość: 3, 4, 5.
+- /town permissions [type] [group] [allow/deny]: Ustawia permisje dla interakcji w prowincji miasta.  Więcej na$
+- /town protect: Toggle protecting/unprotecting chests with mouse click. Włącza chronienie lub usuwanie go na skrzynkach przyciskiem myszy.
+- /town protect show: Pokazuje chronione skrzynki z particlesami.
+- /town trust `nazwa`: Ustawia gracza jako zaufanego (tylko dla liderów i oficerów).
+- /town untrust `nazwa`: Ustawia gracza jako niezaufanego (tylko dla liderów i oficerów).
+- /town capital: Przesuwa stolice prowincji do miejsca w którym się znajdujesz (zmienia to też lokalizacje spawnu miasta).
+- /town annex: Anektuje okupowane terytorium i dodaje je do twojego miasta.
 - /town outpost: Commands to manage town outposts.
 - /town outpost list: Print list of town's outposts.
 - /town outpost setspawn: Set an outpost's spawn point. Player must be in the outpost territory.
 ### /nation (or /n)
-For managing a player's nation, intended to only be used ingame by players.
+Do zarządzania państwem gracza.
 
-- /nation create `nazwa`: Create a new nation with your town as capital.
+- /nation create `nazwa`: Create a new nation with your town as capital. Tworzy państwo z twoim miastem jako stolica.
 - /nation delete: Delete your nation. Leader of capital town only.
 - /nation leave: Leave your nation. Used by town leaders only.
 - /nation capital `miasto`: Set another town in your nation as its capital
