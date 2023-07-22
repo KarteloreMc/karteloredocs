@@ -41,7 +41,7 @@ Warto użyć minimapy **/t minimap**, by widzieć na jakim chunku jesteś i gdzi
 - Okupant prowincji dostaje **podatki** od przegranego miasta.
 
 :::info Informacja
-Podatki to część przychodu: wykopanych rud, wydobytych plonów lub rozmnożonych zwierząt w prowincji, wszystko to idzie do okupanta. Podatki są depozytowane do skrzynki **/t income**.
+Podatki to część przychodu: wykopanych rud, wydobytych plonów lub rozmnożonych zwierząt w prowincji, wszystko to idzie do okupanta. Podatki są depozytowane do skrzynki **/t income**. Podatki wynoszą 40% podstawowego zysku prowincji.
 :::
 :::caution Uwaga!
 Okupowane prowincje nie są częścią okupanta miasta. Okupant nie może budować, używać skrzynek, itd.. na prowincji.
