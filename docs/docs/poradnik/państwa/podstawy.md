@@ -22,7 +22,7 @@ Szansa na wydropienie surowca z danej rudy wynosi jedynie 50%, więc żeby zdoby
 1. Udaj się do prowincji gdzie chcesz stworzyć miasto.
 2. Wpisz komendę **/t create [nazwa miasta]**, zamień [nazwa miasta] na nazwę miasta, którą chcesz ustawić.
 3. Zaproś do swojego miasta graczy używając komendy /t invite [nazwa gracza].
-4. Zwiąrz się sojuszem z innymi miastami, używając /ally [nazwa miasta].
+4. Zwiąż się sojuszem z innymi miastami, używając /ally [nazwa miasta].
 
 :::info Informacja
 Aby zobaczyć układ prowincji na mapie możesz użyć komend **/t map**, **/t minimap** lub wejść na stronę mapy serwera$.
