@@ -69,6 +69,7 @@ Nie dostajesz już wtedy podatków od innego miasta.
 - Wypowiedzenie wojny jednemu z miast/państw nie wciąga sojuszników w wojnę!
 - Użyj **/unally (miasto/państwo)** aby rozwiązać sojusz.
 	- Po rozwiązaniu sojuszu, miasta wchodzą w okres **rozejmu**.
+
 :::info Informacja
 Miasta mogą tworzyć sojusze bez państwa. Kiedy miasto dołącza do państwa, wszystkie poprzednie sojusze się usuwają. Kiedy miasto wychodzi z państwa, jego sojusze też zostają usunięce. Kiedy państwo zostanie usunięte, wszystkie sojusze miast się usuwają.
 :::
