@@ -40,12 +40,12 @@ Sojusznicy nie będą mogli otwierać albo niszczyć skrzyń. Do tego wymagana j
 Miasta mogą chronić poszczególne skrzynie, dzięki czemu tylko liderzy, oficerowie, i zaufani gracze mogą je otwierać. Możesz używać tego aby zachować rezerwy, które randomowe państwa nie mogą zabrać.
 Użyj `/t protect` następnie kliknij na skrzynie które chcesz ochronić. Kliknij na blok który nie jest skrzynią lub wpisz jeszcze raz `/t protect` by przerwać wybieranie skrzyń. 
 
-###Bloki które mogą być ochronione:
+### Bloki które mogą być ochronione:
 - Skrzynie
 - Skrzynka pułapka
 - Piecyki
 
-###Działanie ochronionych bloków:
+### Działanie ochronionych bloków:
 - Hoppery nie mogą zostać użyte do zabierania przedmiotów.
 - Niezaufani gracze nie mogą otwierać lub zamykać tych skrzyń.
 - Kiedy ochroniona skrzynka zostanie zniszczona, ochrona zostanie usunięta.
