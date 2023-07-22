@@ -6,47 +6,48 @@ title: Państwa - Podstawy
 ![Plugin na panstwa](./img/pluginnapanstwawiecejinfo.png)
 
 ## Jak działa plugin?
-- Mapa jest podzielona na prowincje, zaczerpnięte z gry Europa Universalis 4.
+- Mapa jest podzielona na prowincje, takie jak w grze Europa Universalis 4.
 - Każda prowincja ma swój unikalny zasób:
-	- **Surowce**: wykopuj rudy z kamienia (złoto, węgiel, ...)
-	- **Plony**: wydobywaj plony w prowincji (pszenica, ziemniaki, trzcina, ...)
-	- **Zwierzęta**: rozmnażaj zwierzęta w prowincji (owce, krowy, ...)
-- Gracze tworzą miasta i zajmują prowincje, by korzystać z ich zasobów.
+	- **Surowce**: wykopuj dane rudy z kamienia (złoto, węgiel, ...)
+	- **Plony**: z większym powodzeniem wyrastaj dane plony w prowincji (pszenica, ziemniaki, ...)
+	- **Zwierzęta**: z większym powodzeniem rozmnażaj dane zwierzęta w prowincji (owce, krowy, ...)
+- Gracze tworzą miasta i zajmują prowincje, by korzystać z zasobów tych prowincji.
 - Podczas wojny możesz przejmować prowincje innych miast.
 
-:::note Notka
-Plugin więc pogłębia handel między graczami, ponieważ miasto nie mające np. żelaza musi je zdobyć poprzez handel.
+:::info Informacja
+Szansa na wydropienie surowca z danej rudy wynosi jedynie 50%, więc żeby zdobyć dany surowiec czasami trzeba handlować. Przez to plugin znacznie pogłębia handel miedzy graczami.
 :::
 
 ## Jak stworzyć miasto?
 1. Udaj się do prowincji gdzie chcesz stworzyć miasto.
-2. Wpisz komendę **/t create (nazwa miasta)**, zamień (nazwa miasta) na nazwę miasta którą chcesz.
-3. Zaproś graczy komendą /t invite (nazwa gracza).
-4. Zwiąrz się sojuszem z innymi miastami używająć /ally (nazwa miasta).
+2. Wpisz komendę **/t create [nazwa miasta]**, zamień [nazwa miasta] na nazwę miasta, którą chcesz ustawić.
+3. Zaproś do swojego miasta graczy używając komendy /t invite [nazwa gracza].
+4. Zwiąrz się sojuszem z innymi miastami, używając /ally [nazwa miasta].
+
+:::info Informacja
+Aby zobaczyć układ prowincji na mapie możesz użyć komend **/t map**, **/t minimap** lub wejść na stronę mapy serwera$.
+:::
 
 ## Jak zajmować prowincje?
-- Aby zobaczyć prowincje możesz użyć dynmapy lub wpisując komendę **/t map** lub **/t minimap**,
-- Udaj się do prowincji, którą chcesz zająć i wpisz **/t claim**,
+- Aby zająć prowincje, udaj się na nią i na jej obszarze użyj komendy **/t claim**,
 - Jeżeli po jakimś czasie chcesz pozbyć się prowincji wpisz **/t unclaim**
 
 :::info  Informacja
-Zajmowanie prowincji kosztuje **power** miasta. Dostajesz więcej powera, mając więcej graczy oraz więcej czasu spędzonego na serwerze. Prowincje z ważniejszymi surowcami np. stal są droższe.
+Zajęcie prowincji nie jest darmowe, kosztuje ono **power**. Co 30 minut każdy gracz, który należy do miasta otrzymuje 2 powera. Nowo stworzone miasto otrzymuje 30 powera. Każda osoba, która dołącza do miasta może maksymalnie dodać 48 powera - po 24 godzinach gry.
 :::
+
 ## Jak sprawdzić zasoby prowincji?
 Zasoby prowincji można sprawdzić na 2 sposoby albo przez wpisanie komendy **/nodes territory**, albo poprzez wejście na stronę mapy serwera$, wybranie prowincji lewym przyciskiem myszy oraz najechanie na ikonkę surowca w lewym dolnym rogu.
-
 
 ## Przychód Miasta
 Każda prowincja z ustalonym income, co godzinę generuje surowce, które można odebrać używając komendy **/t income**. Używając tej komendy można odebrać zasoby z całego miasta bez konieczności przemieszczania się do poszczególnych prowincji. Podczas okupacji, okupant otrzymuje 40% zasobów prowincji, jednak nie ponosi kosztów w postaci **power`a**.
 
-Income można sprawdzić poprzez stronę mapy serwera, bądź poprzez grę.
-## Jak odebrać przychód miasta?
-- Wpisz **/t income** aby otworzyć skrzynkę przychodów miasta.
+## Co to jest państwo?
+W użytym przez nas pluginie państwo to związek miast. Gracze państwa mogą korzystać z zasobów innych miast państwa oraz mogą na terenie tych miast budować i niszczyć bloki. Gracze danego miasta w państwie nie mogą odbierać **income`u** innego państwa.
 
 ## Jak stworzyć państwo
-1. Stwórz państwo wpisując komendę /n create (nazwapanstwa) zamień (nazwapanstwa) na nazwę miasta którą chcesz.
-2. Zaproś innych komendą /n invite (nazwapanstwa)
-## Porty
+1. Aby stworzyć państwo użyj komendy **/n create [nazwapaństwa]**, zamień [nazwapanstwa] na nazwę państwa która Ci odpowiada.
+2. Zaproś inne miasta do swojego państwa używając komendy **/n invite [nazwa_miasta]**, zamień [nazwa_miasta] na nazwę miasta, które chcesz zaprosić do swojego państwa.
 
 
 
