@@ -41,6 +41,7 @@ Co godzinę otrzymujemy przychód zasobów z miasta ze wszystkich prowincji, bą
 # Jak stworzyć państwo
 1. Stwórz państwo wpisując komendę /n create (nazwapanstwa) zamień (nazwapanstwa) na nazwę miasta którą chcesz.
 2. Zaproś innych komendą /n invite (nazwapanstwa)
+# Porty
 
 
 
