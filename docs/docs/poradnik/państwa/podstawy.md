@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: Państwa
+title: Państwa - Podstawy
 ---
 
 ![Plugin na panstwa](./img/pluginnapanstwawiecejinfo.png)
