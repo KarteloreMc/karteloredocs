@@ -4,15 +4,19 @@ title: Budynki Funkcjonalne
 ---
 ![Budynki Funkcjonalne](./img/budynkifunkcjonalne.png)
 # Budynki Funkcjonalne
-Jak dobrze wiecie, nowa edycja będzie opierać się na czasach średniowiecznych. Przez co będzie narzucony styl budowania. Nie będą narzucane kary w postaci bana, albo niszczenia waszych budowli jeśli zbudujecie coś w innym stylu, jednak dobrze by było zachować tą imersje.
+Jak dobrze wiecie, nowa edycja będzie odbywać się w czasach średniowiecznych, w związku z tym narzucony będzie średniowieczny styl budowania. Żadne kary za niewłaściwy styl budynku typu ban lub zniszczenie budowli nie będą stosowane przez administrację, jednak zachowanie immersji budowli jest bardzo mile widziane i bardzo opłacalne dla graczy.
 
-By urozmaicić chęć budowania, dodano **budynki funkcjonalne**! Na czym one polegają?
+By urozmaicić chęć budowania, dodano **budynki funkcjonalne**! Wyróżniamy: miasto, kuźnię, zbrojownię, farmę, port oraz rafinerię. Na czym one polegają?
 
 ## Tiery miast
-Jeżeli zbudujesz fajny budynek w prowincji, otrzymasz do niej fajne bonusy. W zależności od jakości budynku którą będzie oceniać administracja, twoje miasto dostanie bonus w zależności od **tieru miasta**.
+Jeżeli zbudujesz ładny, średniowieczny budynek w prowincji, otrzymasz bardzo fajne i korzystne bonusy na terenie całego miasta! W zależności od jakości i wyglądu budynku, twoje miasto dostanie bonus w zależności od **tieru miasta**.
+
+:::info Informacja
+Budynki podlegają ocenie administracji - dokładniej osobą z rangą Minecraft Staff, zatem trzeba się postarać aby zdobyć wysokie bonusy do surowców. Wszystkie budynki funkcjonalne mają 3 tiery, wyższe tiery są trudniejsze do zdobycia, jednak zaperwniaja dużo większe bonusy. Jako administracja nie spodziewamy się wielu miast na Tierze 3, jednak liczymy na waszą kreatywność!
+:::
 
 ### Tier 1
-- +x% Boost do przychodu z prowincji
+- +50% Boost do przychodu z prowincji miasta
 
 ### Tier 2
 - +x% Boost do przychodu z prowincji
@@ -26,7 +30,4 @@ Różne itemy np. stal potrzebują **rafinerii** do ich wytworzenia, którą trz
 - Aby zobaczyć ekwipunek rafinerii użyj **/refinery**, stojąc na prowincji, gdzie jest rafineria.
 - Gdy minie czas rafineria przetworzy zasoby na **/t income**
 - Każda prowincja może mieć x typów rafinerii.
-
-
-rucham ci rodzine
 
