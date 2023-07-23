@@ -28,14 +28,14 @@ Budynki funkcjonalne podlegają ocenie administracji - dokładniej osobom z rang
 
 ## Rafinerie
 Różne itemy np. ciężka stal potrzebują **rafinerii** do ich wytworzenia, którą trzeba oczywiście zbudować, jeżeli tego nie zrobisz będziesz musiał kupywać zasób od innych prowincji.
-Każdy typ rafinerii ma, podobnie jak miasto, 3 tiery. Tiery rafinerii przypisywane będą przez administrację. Tutaj jednak każdy kolejny tier zamiast dawać więcej surowców, przyspiesza jedynie produkcję. 
-Każda prowincja może mieć po jednej rafinerii każdego typu. 
+Każdy typ **rafinerii** ma, podobnie jak miasto, 3 tiery. Tiery **rafinerii** przypisywane będą przez administrację. Tutaj jednak każdy kolejny tier zamiast dawać więcej surowców, przyspiesza jedynie produkcję. 
+Każda prowincja może mieć po jednej **rafinerii** każdego typu. 
 
 ### Kuźnia
-W kuźni po połączeniu 64 sztuk żelaza, 16 sztuk węgla i 16 sztuk stali otrzymasz jedną, lecz bardzo cenną sztabkę ciężkiej stali.
+W kuźni po połączeniu 64 sztuk żelaza, 16 sztuk węgla i 16 sztuk stali otrzymasz jedną, lecz bardzo cenną sztabkę **ciężkiej stali**.
 
 ### Labolatorium
-W Labolatorium po połączeniu 64 sztuk redstone`a oraz 2 łez ghasta otrzymasz 16 sztuk Blaze Powdera, który przyda się w tworzeniu wszelakich mikstur.
+W Labolatorium po połączeniu 64 sztuk redstone`a oraz 2 łez ghasta otrzymasz 16 sztuk **Blaze Powdera**, który przyda się w tworzeniu wszelakich mikstur.
 
 - Aby zobaczyć ekwipunek rafinerii użyj **/refinery**, stojąc na prowincji, gdzie jest rafineria. $$$$$$$$$$$$
 - Gdy minie czas rafineria przetworzy zasoby na **/t income** $$$$$$$$$$$$$
