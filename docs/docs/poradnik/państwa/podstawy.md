@@ -33,7 +33,7 @@ Aby zobaczyć układ prowincji na mapie możesz użyć komend **/t map**, **/t m
 - Jeżeli po jakimś czasie chcesz pozbyć się prowincji wpisz **/t unclaim**
 
 :::info  Informacja
-Zajęcie prowincji nie jest darmowe, kosztuje ono **power**. Co 30 minut każdy gracz, który należy do miasta otrzymuje 1 powera. Nowo stworzone miasto otrzymuje 30 powera. Każda osoba, która dołącza do miasta może maksymalnie dodać 48 powera - po 24 godzinach gry.
+Zajęcie prowincji nie jest darmowe, kosztuje ono **power**. Co 30 minut każdy gracz, który należy do miasta otrzymuje 1 power. Nowo stworzone miasto otrzymuje 30 powera. Każda osoba, która dołącza do miasta może maksymalnie dodać 48 powera - po 24 godzinach gry. Cena prowincji w powerze wyświetlona jest na stronie mapy serwera$ po wybraniu trzeciej opcji z zakładki **Map options:**. Zajęcie pierwszej prowincji (jeżeli ta kosztuje więcej niż 30 powera) jest bezwarunkowe, jednak wiąże się z dużą karą surowcową. Zajęcie kolejnych prowincji wymaga od miasta posiadania powera większego od kosztu wszystkich zajętych już prowincji.
 :::
 
 ## Jak sprawdzić zasoby prowincji?
