@@ -2,6 +2,7 @@
 sidebar_position: 3
 title: Budynki Funkcjonalne
 ---
+![Budynki Funkcjonalne](./img/budynkifunkcjonalne.png)
 # Budynki Funkcjonalne
 Jak dobrze wiecie, nowa edycja będzie opierać się na czasach średniowiecznych. Przez co będzie narzucony styl budowania. Nie będą narzucane kary w postaci bana, albo niszczenia waszych budowli jeśli zbudujecie coś w innym stylu, jednak dobrze by było zachować tą imersje.
 
