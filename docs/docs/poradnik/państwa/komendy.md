@@ -26,7 +26,6 @@ Służy do zarządzania miastem gracza.
 - /town leave: Wychodzi z miasta.
 - /town kick `gracz`: Wyrzuca innego gracza z twojego miasta (tylko dla liderów i oficerów).
 - /town spawn: Teleportuje się do głównego spawnpointa miasta.
-	- /town spawn [outpost]: Teleport to an outpost's spawn point.
 - /town setspawn: Zmienia spawnpoint twojego miasta na inną lokacje w głównej prowincji miasta$(homechunk) (tylko dla lidera miasta).
 - /town list: Wyświetla listę wszystkich miast.
 - /town info: Wyświetla nazwę miasta, lidera, oficerów, residents i zajęte prowincje.
@@ -40,14 +39,14 @@ Służy do zarządzania miastem gracza.
 - /town rename [nowa nazwa]: Zmienia nazwę twojego miasta (tylko dla lidera miasta)
 - /town map: Wyświetla mapę prowincji dla gracza na czat.
 - /town minimap [3|4|5]: Włącza/wyłącza widok chunków prowincji na minimapie po prawej stronie. Opcjonalnie możesz wybrać jej wielkość: 3, 4, 5.
-- /town permissions [type] [group] [allow/deny]: Ustawia permisje dla interakcji w prowincji miasta.  Więcej na$
+- /town permissions [type] [group] [allow/deny]: Ustawia permisje dla interakcji w prowincji miasta. (typ, grupa, zezwól/odmów)  Więcej na$
 - /town protect: Toggle protecting/unprotecting chests with mouse click. Włącza chronienie lub usuwanie go na skrzynkach przyciskiem myszy.
 - /town protect show: Pokazuje chronione skrzynki z particlesami.
 - /town trust `nazwa`: Ustawia gracza jako zaufanego (tylko dla liderów i oficerów).
 - /town untrust `nazwa`: Ustawia gracza jako niezaufanego (tylko dla liderów i oficerów).
 - /town capital: Przesuwa stolice prowincji do miejsca w którym się znajdujesz (zmienia to też lokalizacje spawnu miasta).
-- /town annex: Anektuje okupowane terytorium i dodaje je do twojego miasta.
-### /nation (or /n)
+- /town annex: Anektuje okupowaną prowincje i dodaje je do twojego miasta.
+### /nation (lub /n)
 Do zarządzania państwem gracza.
 
 - /nation create `nazwa`: Tworzy państwo z twoim miastem jako jego stolica.
@@ -86,22 +85,35 @@ Otwiera okno traktatu pokojowego z innym państwem bądź miastem.
 Wyświetla trwające rozejmy miasta z innymi miastami.
 
 - /truce `miasto`: Wyświetla trwające rozejmy innego miasta.
-### /nodes (or /nd)
-For printing general info about the world (e.g. resource nodes, territories, towns, nations, players). Can be used by players ingame or in console. 
+### /nodes (lub /nd)
+Do wyświetlania ogólnych  informacji w Europie (prowincje z zasobami, prowincje, miasta, państwa, gracze).
 
-- /nodes help: Prints list of commands
-- /nodes resource: Prints list of all resource nodes
-- /nodes resource `nazwa`: Print detailed stats of a resource node type (income, crops, animals, ore)
-- /nodes territory: In console, just prints total territory count. Ingame, prints info about territory player is standing in.
-- /nodes territory [id]: Prints info about territory from id
-- /nodes town: Prints list of all towns, their player count and territory count
-- /nodes town `nazwa`: Prints detailed info about town from `nazwa` (territories, players, etc...)
-- /nodes nation: Prints list of all nations
-- /nodes nation `nazwa`: Prints detailed info about nation from `nazwa` (towns, allies, enemies, etc...)
-- /nodes player `nazwa`: Prints player info (their town and nation)
-- /nodes war: Print if war enabled/disabled
+- /nodes help: Wyświetla listę wszystkich komend.
+- /nodes resource: Wyświetla listę wszystkich zasobów w prowincji. 
+- /nodes resource `nazwa`: Wyświetla wyszczególnione statystyki typów zasobów w prowincji (Surowce, Plony, Zwierzęta)
+- /nodes territory: Wyświetla ogólne informacje o prowincji w której stoisz.
+- /nodes territory [id]: Wyświetla ogólne informacje innej prowincji za pomoca jego id.
+- /nodes town: Wyświetla listę wszyskich miast, dokładniej ich liczbę graczy i liczbę prowincji.
+- /nodes town `nazwa`: Prints detailed info about town from `nazwa` (territories, players, etc...). Wyświetla szczególne informacje o mieście (prowincje, gracze, itd...).
+- /nodes nation: Wyświetla listę wszystkich państw.
+- /nodes nation `nazwa`: Wyświetla ogólne informacje o państwie (miasta, sojusznicy, wrogowie, itd...).
+- /nodes player `nazwa`: Wyświetla informacje o graczu (jego miasto i państwo).
+- /nodes war: Wyświetla czy wojny są włączone/wyłączone.
 
-### rafinerie
+### Rafinerie
+Do wyświetlania ogólnych  informacji o rafineriach.
+- /refinery: Otwiera menu rafinerii w prowincji na której stoisz.
+- /refinery help: Wyświetla listę wszystkich komend.
+- /refinery recipe `nazwa`: Wyświetla informację o recepturze rafinerii.
+- /reifnery type `nazwa`: Wyświetla informację o typu rafinerii.
 
 
-### porty
+
+### Porty
+Do wyświetlania ogólnych  informacji o portach. 
+- /port help: Wyświetla listę wszystkich komend.
+- /port list: Lista wszystkich portów.
+- /port info `nazwa portu`: Wyświetla informację o porcie.
+- /port allow `neutral/ally/enemy`: Ustawia kto może teleportować się do portu (neutralny, sojusznik, wróg).
+- /port fee: Ustawia prowizję przy teleportowaniu się do portu.
+- /port warp `nazwa`: Teleportuje się do portu.

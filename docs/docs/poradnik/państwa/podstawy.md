@@ -37,10 +37,10 @@ Zajęcie prowincji nie jest darmowe, kosztuje ono **power**. Co 30 minut każdy 
 :::
 
 ## Jak sprawdzić zasoby prowincji?
-Zasoby prowincji można sprawdzić na 2 sposoby albo przez wpisanie komendy **/nodes territory**, albo poprzez wejście na stronę mapy serwera$, wybranie prowincji lewym przyciskiem myszy oraz najechanie na ikonkę surowca w lewym dolnym rogu.
+Zasoby prowincji można sprawdzić na 2 sposoby albo przez wpisanie komendy `/nodes territory`, albo poprzez wejście na stronę mapy serwera$, wybranie prowincji lewym przyciskiem myszy oraz najechanie na ikonkę surowca w lewym dolnym rogu.
 
 ## Przychód Miasta
-Każda prowincja z ustalonym income, co godzinę generuje surowce, które można odebrać używając komendy **/t income**. Używając tej komendy można odebrać zasoby z całego miasta bez konieczności przemieszczania się do poszczególnych prowincji. Podczas okupacji, okupant otrzymuje jedynie 40% zasobów prowincji.
+Każda prowincja z ustalonym income, co godzinę generuje surowce, które można odebrać używając komendy `/t income`. Używając tej komendy można odebrać zasoby z całego miasta bez konieczności przemieszczania się do poszczególnych prowincji. Podczas okupacji, okupant otrzymuje jedynie 40% zasobów prowincji.
 
 ## Co to jest państwo?
 W użytym przez nas pluginie państwo to związek miast. Gracze państwa mogą korzystać z zasobów innych miast państwa oraz mogą na terenie tych miast budować i niszczyć bloki. Gracze danego miasta w państwie nie mogą odbierać **income`u** innego państwa.
