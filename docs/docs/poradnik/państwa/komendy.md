@@ -68,26 +68,26 @@ Zaoferuj/akceptuj sojusze z innymi miastami lub państwami.
 - /ally `miasto`: zaoferuj/akceptuj sojusz z innym miastem.
 - /ally `państwo`: zaoferuj/akceptuj sojusz z innym państwem.
 ### /unally `nazwa`
-Break alliance with another town or nation. Towns will enter a truce period.
+Rozwiązuje sojusz z  miastem bądź państwem. Miasta wchodzą wtedy w okres rozejmu.
 
-- /unally `miasto`: Break alliance with a town.
-- /unally `państwo`: Break alliance with a nation.
+- /unally `miasto`: Rozwiąż sojusz miastem.
+- /unally `państwo`: Rozwiąż sojusz państwem.
 ### /war `nazwa`
-Declare war on other towns or nations.
+Wypowiada wojnę innym miastom lub państwom.
 
-- /war `miasto`: Declares war on a town.
-- /war `państwo`: Declares war on a nation.
+- /war `miasto`: Wypowiada wojne miastu.
+- /war `państwo`: Wypowiada wojne państwu.
 ### /peace `nazwa`
-Opens peace treaty window with another town or nation.
+Otwiera okno traktatu pokojowego z innym państwem bądź miastem.
 
-- /peace `miasto`: Negotiate a peace treaty with a town.
-- /peace `państwo`: Negotiate a peace treaty with a nation.
+- /peace `miasto`: Negocjuje traktat pokojowy z innym miastem.
+- /peace `państwo`: Negocjuje traktat pokojowy z innym państwem.
 ### /truce
-View your town's remaining truce times with other towns.
+Wyświetla trwające rozejmy miasta z innymi miastami.
 
-- /truce `miasto`: View other town's remaining truce times.
+- /truce `miasto`: Wyświetla trwające rozejmy innego miasta.
 ### /nodes (or /nd)
-For printing general info about the world (e.g. resource nodes, territories, towns, nations, players). Can be used by players ingame or in console.
+For printing general info about the world (e.g. resource nodes, territories, towns, nations, players). Can be used by players ingame or in console. 
 
 - /nodes help: Prints list of commands
 - /nodes resource: Prints list of all resource nodes
@@ -100,3 +100,8 @@ For printing general info about the world (e.g. resource nodes, territories, tow
 - /nodes nation `nazwa`: Prints detailed info about nation from `nazwa` (towns, allies, enemies, etc...)
 - /nodes player `nazwa`: Prints player info (their town and nation)
 - /nodes war: Print if war enabled/disabled
+
+### rafinerie
+
+
+### porty
