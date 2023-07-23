@@ -5,23 +5,33 @@ title: Dyplomacja i Wojny
 
 # Dyplomacja i Wojny
 
+### Sojusze
+- Użyj **/ally `nazwa_miasta/nazwa_panstwa`** aby wysłać, bądź zaakceptować ofertę **sojuszu**.
+- Miasta lub państwa w sojuszu nie mogą sobie wypowiadać wojen.
+- Wypowiedzenie wojny innemu państwu/miastu spoza sojuszu **nie** oznacza wciągnięcia sojuszników do wojny!
+- Użyj **/unally `nazwa_miasta/nazwa_panstwa`** aby rozwiązać sojusz z danym państwem/miastem.
+	- Po rozwiązaniu sojuszu miasta wchodzą w okres 48-o godzinnego **rozejmu**, podczas którego państwa te nie mogą wypowiedzieć sobie wojny.
+
+:::info Informacja
+Miasta mogą tworzyć sojusze bez państwa. Kiedy miasto dołącza do państwa, wszystkie poprzednie sojusze się usuwają. Kiedy miasto wychodzi z państwa, jego sojusze też zostają usunięce. Kiedy państwo zostanie usunięte, wszystkie sojusze miast się usuwają.
+:::
+
 ### Wojny
-- Podczas wojny miasta mogą zajmować bądz anektować prowincje innych miast.
-- Aby wypowiedzieć wojnę wpisz **/war [nazwamiasta/nazwapanstwa]**. Jeżeli twój przeciwnik jest w państwie, wszystkie miasta z państwa wezmą udział w wojnie.
-- Miasta mogą zakończyć wojnę traktatem pokojowym. (odnośnik niżej)
-- Po podpisaniu pokoju, miasta mają rozejm na 48h, nie mogą wtedy wypowiadać sobie wojen.
+- Podczas wojny miasta mogą zajmować i okupować bądz anektować prowincje innych miast.
+- Aby wypowiedzieć wojnę należy użyć komendy **/war `nazwa_miasta/nazwa_panstwa`**. Jeżeli twój przeciwnik jest w państwie, wszystkie miasta z państwa wezmą udział w wojnie.
+- Miasta mogą zakończyć wojnę traktatem pokojowym. Po takowym traktacie miasta wchodzą w stan **rozejmu**, podczas którego przez 48 godzin nie mogą wypowiedzieć sobie wojny. Dzięki temu pokonane państwo będzie miało czas na rozbudowe i kontratak, o ile nie zostało ono całkowicie zajęte w ramach owego traktatu.
 
 :::caution Uwaga!
 Nie możesz wypowiadać wojny państwu/miastu, które nie ma graczy online. 
 :::
+
 ### Atakowanie prowincji
-Aby zaatakować prowincje stawiamy **płotek** na chunku (płotek ma imitować flagę). 
-- Musisz zaatakować z brzegu prowincji.
-- Możesz też zaatakować z przejętego chunka bądź z prowincji sojuszniczej.
+Aby zaatakować prowincje stawiamy dowolny **płotek** na chunku (płotek ma imitować "flagę"). 
+- Atakowany chunk musi graniczyć z twoją prowincją, bądź z innym przejętym chunkiem.
 - "Flaga" musi widzieć niebo, nie może być postawiona pod ziemią lub pod wodą.
-- Zniszcz wełnę lub płotek by przerwać atak przeciwnika.
-- Jeżeli flaga nie zostanie znisczona, po jakimś czasie przejmiesz chunk.
-- Zajmij home chunk (**H** na /t minimap) aby zająć całą prowincję, tym samym ją okupując.
+- Zniszcz wełnę lub płotek by przerwać atak przeciwnika (po postawieniu **płotka**, plugin automatycznie kładzie na niego wełnę).
+- Jeżeli "flaga" nie zostanie znisczona, po upływie 45 sekund zajmiesz chunk'a. Możesz obudować "flagę", jednak nie możesz postawić bloku w obrębie jednej kratki od "flagi".
+- Zajmij home chunk (**H** na /t minimap lub /t map) aby zająć całą prowincję, tym samym ją okupując.
 
 <div class="box">
     <img 
@@ -32,11 +42,11 @@ Aby zaatakować prowincje stawiamy **płotek** na chunku (płotek ma imitować f
 </div>
 
 :::tip Porada
-Warto użyć minimapy **/t minimap**, by widzieć na jakim chunku jesteś i gdzie możesz zaatakować.
+Warto użyć minimapy **/t minimap**, by widzieć na jakim chunku się znajdujesz oraz jakie chunk/chunki możesz zaatakować.
 :::
 
 ### Okupacja prowincji
-- Każda prowincja ma swój **home chunk** oznaczona literą "H" na /t minimap
+- Każda prowincja ma swój **home chunk** oznaczona literą "H" na /t minimap lub /t map.
 - Po przejęciu home chunk'a, cała prowincja jest **okupowana** przez atakujące miasto.
 - Okupant prowincji dostaje **podatki** od przegranego miasta.
 
@@ -44,35 +54,24 @@ Warto użyć minimapy **/t minimap**, by widzieć na jakim chunku jesteś i gdzi
 Podatki to część przychodu: wykopanych rud, wydobytych plonów lub rozmnożonych zwierząt w prowincji, wszystko to idzie do okupanta. Podatki są depozytowane do skrzynki **/t income**. Podatki wynoszą 40% podstawowego zysku prowincji.
 :::
 :::caution Uwaga!
-Okupowane prowincje nie są częścią okupanta miasta. Okupant nie może budować, używać skrzynek, itd.. na prowincji.
+Okupowane prowincje nie są częścią miasta okupanta. Na okupowanych prowincjach obie strony mogą niszczyć i stawiać bloki lub otwierać skrzynki.
 :::
 
 ### Aneksja
-- Miasto okupujące prowincję może zadecydować, aby ją **zaanektować**.
-- Anektowanie dodaje prowincje do twojego miasta, jako normalna przejęta prowincja.
-- Anektowane terytorium nie kosztuje ani jednego powera.
+Aneksja jest mocno zalecana.
+- Miasto okupujące prowincję może ją zaanektować poprzez komendę **/t annex**.
+- Anektowanie dodaje prowincje do twojego miasta, jako normalną zajętą prowincje.
+- Anektowane terytorium nie kosztuje powera.
 
-Anektowana prowincja działa jak każda przejęta prowincja przez twoje miasto tzn. możesz na niej budować, używać skrzynek, etc...
-Nie dostajesz już wtedy podatków od innego miasta.
+Anektowana prowincja działa jak każda inna zajęta prowincja przez twoje miasto, tzn. możesz na niej budować, używać skrzynek, itd...
 
 ### Traktaty pokojowe
-- Wpisz **/peace** (miasto/panstwo) aby negocjować **traktat pokojowy**.
-- Otwiera to GUI traktatu pokojowego.
-- Traktat pokojowy może być negocjowany w każdym czasie, nawet przed wojną.
+- Wpisz **/peace `nazwa_miasta/nazwa_panstwa`** aby negocjować **traktat pokojowy**, otwiera to GUI traktatu pokojowego.
+- Traktat pokojowy może być negocjowany w każdym czasie, nawet przed wojną, lub po jej zakończeniu. W ramach komendy **/peace `nazwa_miasta/nazwa_panstwa`** możesz np sprzedawać prowincje innym graczom.
 - Po podpisanym traktacie pokojowym, miasta wchodzą w okres rozejmu na 48h.
 	- Państwa w rozejmie nie mogą wypowiadać sobie wojen.
 	- Wpisz **/truce** aby zobaczyć trwające rozejmy z innymi miastami.
 
-### Sojusze
-- Użyj **/ally (państwo/miasto)** aby wysłać, bądź zaakceptować **sojusz**.
-- Miasta lub państwa w sojuszu nie mogą sobie wypowiadać wojen.
-- Wypowiedzenie wojny jednemu z miast/państw nie wciąga sojuszników w wojnę!
-- Użyj **/unally (miasto/państwo)** aby rozwiązać sojusz.
-	- Po rozwiązaniu sojuszu, miasta wchodzą w okres **rozejmu**.
-
-:::info Informacja
-Miasta mogą tworzyć sojusze bez państwa. Kiedy miasto dołącza do państwa, wszystkie poprzednie sojusze się usuwają. Kiedy miasto wychodzi z państwa, jego sojusze też zostają usunięce. Kiedy państwo zostanie usunięte, wszystkie sojusze miast się usuwają.
-:::
 	
 
 
