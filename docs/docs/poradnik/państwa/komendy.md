@@ -47,29 +47,26 @@ Służy do zarządzania miastem gracza.
 - /town untrust `nazwa`: Ustawia gracza jako niezaufanego (tylko dla liderów i oficerów).
 - /town capital: Przesuwa stolice prowincji do miejsca w którym się znajdujesz (zmienia to też lokalizacje spawnu miasta).
 - /town annex: Anektuje okupowane terytorium i dodaje je do twojego miasta.
-- /town outpost: Commands to manage town outposts.
-- /town outpost list: Print list of town's outposts.
-- /town outpost setspawn: Set an outpost's spawn point. Player must be in the outpost territory.
 ### /nation (or /n)
 Do zarządzania państwem gracza.
 
-- /nation create `nazwa`: Create a new nation with your town as capital. Tworzy państwo z twoim miastem jako stolica.
-- /nation delete: Delete your nation. Leader of capital town only.
-- /nation leave: Leave your nation. Used by town leaders only.
-- /nation capital `miasto`: Set another town in your nation as its capital
-- /nation invite `miasto`: Invite another town to join your nation. Leader of capital town only.
-- /nation list: View list of all established nations and their towns
-- /nation color [r] [g] [b]: Set territory color on dynmap for all towns in nation. Leader of capital town only.
-- /nation rename `nazwa`: Renames your nation. Leader of capital town only.
-- /nation online: View your nation's online players
-- /nation online `państwo`: View another nation's online players
-- /nation info `państwo`: View nation's info
-- /nation spawn `miasto`: Teleport to town inside your nation. May cost items to use.
+- /nation create `nazwa`: Tworzy państwo z twoim miastem jako jego stolica.
+- /nation delete: Usuwa państwo (tylko dla lidera stolicy państwa)
+- /nation leave: Wychodzi z państwa (tylko dla lidera miasta).
+- /nation capital `miasto`: Ustawia inne miasto jako stolice twojego państwa.
+- /nation invite `miasto`: Zaprasza miasto do państwa (tylko dla lidera stolicy państwa)
+- /nation list: Wyświetla listę wszystkich państw i ich miast.
+- /nation color [r] [g] [b]: Ustawia kolor posiadanych prowincji prze państwo na dynmapie (tylko dla lidera stolicy państwa).
+- /nation rename `nazwa`: Zmienia nazwę państwa (tylko dla lidera stolicy państwa). 
+- /nation online: Sprawdza graczy online państwa.
+- /nation online `państwo`: Sprawdza graczy online innego państwa.
+- /nation info `państwo`: Sprawdza informacje państwa.
+- /nation spawn `miasto`: Teleportuje się do miasta w państwie. Może to kosztować przedmioty.
 ### /ally `nazwa`
-Offer/accept alliance with another town or nation.
+Zaoferuj/akceptuj sojusze z innymi miastami lub państwami.
 
-- /ally `miasto`: Offer/accept alliance with a town.
-- /ally `państwo`: Offer/accept alliance with a nation.
+- /ally `miasto`: zaoferuj/akceptuj sojusz z innym miastem.
+- /ally `państwo`: zaoferuj/akceptuj sojusz z innym państwem.
 ### /unally `nazwa`
 Break alliance with another town or nation. Towns will enter a truce period.
 
