@@ -3,6 +3,7 @@ sidebar_position: 5
 title: Komendy
 ---
 # Komendy - Państwa
+
 ### Ustawienia czatu
 Te ustawienia zmieniają twój **kanał czatu**, tzn. kiedy piszesz na czacie, tylko gracze z twojego miasta, państwa lub sojuszu zobaczą wiadomość.
 
@@ -46,6 +47,7 @@ Służy do zarządzania miastem gracza.
 - /town untrust `nazwa`: Ustawia gracza jako niezaufanego (tylko dla liderów i oficerów).
 - /town capital: Przesuwa stolice prowincji do miejsca w którym się znajdujesz (zmienia to też lokalizacje spawnu miasta).
 - /town annex: Anektuje okupowaną prowincje i dodaje je do twojego miasta.
+
 ### /nation (lub /n)
 Do zarządzania państwem gracza.
 
@@ -61,32 +63,38 @@ Do zarządzania państwem gracza.
 - /nation online `państwo`: Sprawdza graczy online innego państwa.
 - /nation info `państwo`: Sprawdza informacje państwa.
 - /nation spawn `miasto`: Teleportuje się do miasta w państwie. Może to kosztować przedmioty.
+
 ### /ally `nazwa`
 Zaoferuj/akceptuj sojusze z innymi miastami lub państwami.
 
 - /ally `miasto`: zaoferuj/akceptuj sojusz z innym miastem.
 - /ally `państwo`: zaoferuj/akceptuj sojusz z innym państwem.
+
 ### /unally `nazwa`
 Rozwiązuje sojusz z  miastem bądź państwem. Miasta wchodzą wtedy w okres rozejmu.
 
 - /unally `miasto`: Rozwiąż sojusz miastem.
 - /unally `państwo`: Rozwiąż sojusz państwem.
+
 ### /war `nazwa`
 Wypowiada wojnę innym miastom lub państwom.
 
 - /war `miasto`: Wypowiada wojne miastu.
 - /war `państwo`: Wypowiada wojne państwu.
+
 ### /peace `nazwa`
 Otwiera okno traktatu pokojowego z innym państwem bądź miastem.
 
 - /peace `miasto`: Negocjuje traktat pokojowy z innym miastem.
 - /peace `państwo`: Negocjuje traktat pokojowy z innym państwem.
+
 ### /truce
 Wyświetla trwające rozejmy miasta z innymi miastami.
 
 - /truce `miasto`: Wyświetla trwające rozejmy innego miasta.
+
 ### /nodes (lub /nd)
-Do wyświetlania ogólnych  informacji w Europie (prowincje z zasobami, prowincje, miasta, państwa, gracze).
+Do wyświetlania ogólnych informacji w Europie (prowincje z zasobami, prowincje, miasta, państwa, gracze).
 
 - /nodes help: Wyświetla listę wszystkich komend.
 - /nodes resource: Wyświetla listę wszystkich zasobów w prowincji. 
@@ -107,13 +115,11 @@ Do wyświetlania ogólnych  informacji o rafineriach.
 - /refinery recipe `nazwa`: Wyświetla informację o recepturze rafinerii.
 - /reifnery type `nazwa`: Wyświetla informację o typu rafinerii.
 
-
-
 ### Porty
-Do wyświetlania ogólnych  informacji o portach. 
+Do wyświetlania ogólnych informacji o portach. 
 - /port help: Wyświetla listę wszystkich komend.
 - /port list: Lista wszystkich portów.
 - /port info `nazwa portu`: Wyświetla informację o porcie.
 - /port allow `neutral/ally/enemy`: Ustawia kto może teleportować się do portu (neutralny, sojusznik, wróg).
-- /port fee: Ustawia prowizję przy teleportowaniu się do portu.
-- /port warp `nazwa`: Teleportuje się do portu.
+- /port fee: Ustawia cenę teleportowania się do portu.
+- /port warp `nazwa`: Teleport do portu.
