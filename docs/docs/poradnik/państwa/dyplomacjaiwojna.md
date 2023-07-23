@@ -28,6 +28,7 @@ Nie możesz wypowiadać wojny państwu/miastu, które nie ma graczy online.
 ### Atakowanie prowincji
 Aby zaatakować prowincje stawiamy dowolny **płotek** na chunku (płotek ma imitować "flagę"). 
 - Atakowany chunk musi graniczyć z twoją prowincją, bądź z innym przejętym chunkiem.
+- Możliwe jest atakowanie trzech różnych chunków w tym samym czasie.
 - "Flaga" musi widzieć niebo, nie może być postawiona pod ziemią lub pod wodą.
 - Zniszcz wełnę lub płotek by przerwać atak przeciwnika (po postawieniu **płotka**, plugin automatycznie kładzie na niego wełnę).
 - Jeżeli "flaga" nie zostanie znisczona, po upływie 45 sekund zajmiesz chunk'a. Możesz obudować "flagę", jednak nie możesz postawić bloku w obrębie jednej kratki od "flagi".

@@ -9,20 +9,22 @@ Jak dobrze wiecie, nowa edycja będzie odbywać się w czasach średniowiecznych
 By urozmaicić chęć budowania, dodano **budynki funkcjonalne**! Wyróżniamy: miasto, kuźnię, zbrojownię, farmę, port oraz rafinerię. Na czym one polegają?
 
 ## Tiery miast
-Jeżeli zbudujesz ładny, średniowieczny budynek w prowincji, otrzymasz bardzo fajne i korzystne bonusy na terenie całego miasta! W zależności od jakości i wyglądu budynku, twoje miasto dostanie bonus w zależności od **tieru miasta**.
+Jeżeli zbudujesz ładny, średniowieczny budynek w prowincji, otrzymasz bardzo fajne i korzystne bonusy na jej terenie! W zależności od jakości i wyglądu budynku, twoja prowincja dostanie bonus w zależności od **tieru miasta**.
 
 :::info Informacja
-Budynki podlegają ocenie administracji - dokładniej osobą z rangą Minecraft Staff, zatem trzeba się postarać aby zdobyć wysokie bonusy do surowców. Wszystkie budynki funkcjonalne mają 3 tiery, wyższe tiery są trudniejsze do zdobycia, jednak zaperwniaja dużo większe bonusy. Jako administracja nie spodziewamy się wielu miast na Tierze 3, jednak liczymy na waszą kreatywność!
+Budynki funkcjonalne podlegają ocenie administracji - dokładniej osobom z rangą Minecraft Staff, zatem trzeba się postarać aby zdobyć wysokie bonusy do surowców. Wszystkie budynki funkcjonalne mają 3 tiery, wyższe tiery są trudniejsze do zdobycia, jednak zaperwniaja dużo większe bonusy. Jako administracja nie spodziewamy się wielu miast na Tierze 3, jednak liczymy na waszą kreatywność!
 :::
 
 ### Tier 1
-- +50% Boost do przychodu z prowincji miasta
+- +50% Boost do przychodu z prowincji
 
 ### Tier 2
-- +x% Boost do przychodu z prowincji
+- +100% Boost do przychodu z prowincji
+- +30% Boost do dropu z kamienia na danej prowincji
 
 ### Tier 3
-- +x% Boost do przychodu z prowincji
+- +300% Boost do przychodu z prowincji
+- +100% Boost do dropu z kamienia na danej prowincji
 
 # Rafinerie
 Różne itemy np. stal potrzebują **rafinerii** do ich wytworzenia, którą trzeba oczywiście zbudować, jeżeli tego nie zrobisz będziesz musiał kupywać zasób od innych prowincji.
