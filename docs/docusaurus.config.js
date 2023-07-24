@@ -64,9 +64,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'KarteLore',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Logo KL',
           src: 'img/logo.svg',
         },
         items: [
@@ -79,7 +79,7 @@ const config = {
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            label: 'GitHub do usuniecia',
             position: 'right',
           },
         ],
@@ -91,7 +91,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Poradnik',
                 to: '/docs/intro',
               },
             ],
@@ -100,34 +100,34 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Strona WWW',
+                href: 'https://https://www.kartelore.pl',
               },
               {
                 label: 'Discord',
                 href: 'https://discord.gg/kartelore',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Instagram',
+                href: 'https://www.instagram.com/kartelore/',
               },
             ],
           },
           {
-            title: 'More',
+            title: 'Więcej',
             items: [
               {
-                label: 'Blog',
+                label: 'Blog do usuniecia',
                 to: '/blog',
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://karteloremc.github.io/karteloredocs/docs/intro',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} KarteLore.`,
       },
       prism: {
         theme: lightCodeTheme,
