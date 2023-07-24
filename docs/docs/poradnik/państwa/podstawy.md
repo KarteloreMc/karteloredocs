@@ -20,17 +20,17 @@ Szansa na wydropienie surowca z danej rudy wynosi jedynie 50%, więc żeby zdoby
 
 ## Jak stworzyć miasto?
 1. Udaj się do prowincji gdzie chcesz stworzyć miasto.
-2. Wpisz komendę **/t create [nazwa miasta]**, zamień [nazwa miasta] na nazwę miasta, którą chcesz ustawić.
+2. Wpisz komendę `/t create [nazwa miasta]`, zamień [nazwa miasta] na nazwę miasta, którą chcesz ustawić.
 3. Zaproś do swojego miasta graczy używając komendy /t invite [nazwa gracza].
 4. Zwiąż się sojuszem z innymi miastami, używając /ally [nazwa miasta].
 
 :::info Informacja
-Aby zobaczyć układ prowincji na mapie możesz użyć komend **/t map**, **/t minimap** lub wejść na stronę mapy serwera$.
+Aby zobaczyć układ prowincji na mapie możesz użyć komend `/t map`, `/t minimap` lub wejść na stronę mapy serwera$.
 :::
 
 ## Jak zajmować prowincje?
-- Aby zająć prowincje, udaj się na nią i na jej obszarze użyj komendy **/t claim**,
-- Jeżeli po jakimś czasie chcesz pozbyć się prowincji wpisz **/t unclaim**
+- Aby zająć prowincje, udaj się na nią i na jej obszarze użyj komendy `/t claim`,
+- Jeżeli po jakimś czasie chcesz pozbyć się prowincji wpisz `/t unclaim`
 
 :::info  Informacja
 Zajęcie prowincji nie jest darmowe, kosztuje ono **power**. Co 30 minut każdy gracz, który należy do miasta otrzymuje 1 powera. Nowo stworzone miasto otrzymuje 30 powera. Każda osoba, która dołącza do miasta może maksymalnie dodać 48 powera - po 24 godzinach gry.
@@ -46,8 +46,8 @@ Każda prowincja z ustalonym income, co godzinę generuje surowce, które można
 W użytym przez nas pluginie państwo to związek miast. Gracze państwa mogą korzystać z zasobów innych miast państwa oraz mogą na terenie tych miast budować i niszczyć bloki. Gracze danego miasta w państwie nie mogą odbierać **income`u** innego państwa.
 
 ## Jak stworzyć państwo
-1. Aby stworzyć państwo użyj komendy **/n create [nazwapaństwa]**, zamień [nazwapanstwa] na nazwę państwa która Ci odpowiada.
-2. Zaproś inne miasta do swojego państwa używając komendy **/n invite [nazwa_miasta]**, zamień [nazwa_miasta] na nazwę miasta, które chcesz zaprosić do swojego państwa.
+1. Aby stworzyć państwo użyj komendy `/n create [nazwapaństwa]`, zamień [nazwapanstwa] na nazwę państwa która Ci odpowiada.
+2. Zaproś inne miasta do swojego państwa używając komendy `/n invite [nazwa_miasta]`, zamień [nazwa_miasta] na nazwę miasta, które chcesz zaprosić do swojego państwa.
 
 
 
