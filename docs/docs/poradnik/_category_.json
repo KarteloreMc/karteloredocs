@@ -1,6 +1,6 @@
 {
   "label": "Poradnik",
-  "position": 2,
+  "position": 3,
   "link": {
     "type": "generated-index",
     "description": "Wyjaśnienie i opis wszystkich mechanik serwera."

@@ -11,10 +11,10 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://karteloremc.github.io',
+  url: 'https://www.kartelore.pl/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/karteloredocs/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -51,16 +51,16 @@ const config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'KarteLore',
+      title: 'KarteLore', // Set the title of your site, which will be displayed in the navbar
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
       },
       items: [
         {
-          to: '/',
-          label: 'Blog',
-          position: 'left',
+          to: 'https://www.kartelore.pl/', // <-- Change the link to the new URL
+          label: 'Strona Serwera', // <-- Change the label to display in the navbar
+          position: 'left', // <-- Change the position as desired (left or right)
         },
         {
           href: 'https://github.com/facebook/docusaurus',
@@ -99,6 +99,7 @@ const config = {
           ],
         },
       ],
+      // Use string concatenation instead of template literals
       copyright:
         'Copyright © ' + new Date().getFullYear() + ' My Project, Inc. Built with Docusaurus.',
     },
