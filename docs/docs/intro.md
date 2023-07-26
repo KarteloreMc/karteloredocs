@@ -3,8 +3,8 @@ sidebar_position: 1
 slug: /
 ---
 
-# 🌍 Witamy na serwerze KarteLore! 
-
+# 🌍 Witamy na Dokumentacji Serwera KarteLore! 
+# Znajdziesz tu wiele istotnych informacji na temat naszego serwera.
 
 
 - IP: kartelore.pl (1.18.2-1.20.1)
