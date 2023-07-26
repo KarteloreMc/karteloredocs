@@ -45,12 +45,12 @@ const config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'img/card.png',
     navbar: {
       title: 'KarteLore', // Set the title of your site, which will be displayed in the navbar
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'Logo Strony',
+        src: 'img/koronka.png',
       },
       items: [
         {
