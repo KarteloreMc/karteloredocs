@@ -55,7 +55,7 @@ Do zarządzania państwem gracza.
 - /nation delete: Usuwa państwo (tylko dla lidera stolicy państwa)
 - /nation leave: Wychodzi z państwa (tylko dla lidera miasta).
 - /nation capital `miasto`: Ustawia inne miasto jako stolice twojego państwa.
-- /nation invite `miasto`: Zaprasza miasto do państwa (tylko dla lidera stolicy państwa)
+- /nation invite `miasto`: Zaprasza inne państwo do twojego państwa (tylko dla lidera stolicy państwa)
 - /nation list: Wyświetla listę wszystkich państw i ich miast.
 - /nation color [r] [g] [b]: Ustawia kolor posiadanych prowincji prze państwo na dynmapie (tylko dla lidera stolicy państwa).
 - /nation rename `nazwa`: Zmienia nazwę państwa (tylko dla lidera stolicy państwa). 
