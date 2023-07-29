@@ -1,5 +1,5 @@
 # Balista
-Balista to potężna machina oblężnicza, służy do zwalczania piechoty, potrafi ona zabijać przeciwników z dalekiego zasięgu jednym pociskiem.
+Balista to potężna machina oblężnicza, służąca do zwalczania piechoty. Potrafi ona zabijać przeciwników z dalekiego zasięgu jednym pociskiem.
 <br></br>
 <div class="box">
     <img 
@@ -14,22 +14,21 @@ Balista to potężna machina oblężnicza, służy do zwalczania piechoty, potra
 
 <br></br>
 
-### Jak załadować pocisk?
+### Gdzie pozyskać maszynę?
+Maszynę można pozyskać na spawnie od **Inżyniera**, który sprzedaje wszystkie plany na maszyny oblężnicze.
 
-Aby załadować pocisk, musimy na niego wsiąść **PPM**, następnie załadować danym typem amunicji: żelazem lub pochodnią(podpalająca).
+### Jak załadować pocisk?
+Aby załadować pocisk, musisz naszykować 8 sztuk sztabek żelaza, a następnie nacisnąc **PPM** na machinę.
 
 <br></br>
 
 ### Jak wystrzelić pocisk?
-
-Aby wystrzelić pocisk, klikamy **LPM** w miejsce które chcemy.
+Aby wystrzelić pocisk, klikamy **LPM** w miejsce, które pocisk ma trafić
 
 :::caution Uwaga!
-Po jakimś czasie machina może się zablokować, wtedy użyj patyka i klikając **PPM** odblokuj maszynę.
+Po jakimś czasie machina może się zablokować, użyj wtedy patyka i naciśnij **PPM** aby odblokować maszynę.
 :::
 
-### Gdzie pozyskać maszynę?
-Maszynę można pozyskać na spawnie od **Inżyniera**, który sprzedaje wszystkie machiny oblężnicze.
 
 <div class="box">
     <img 
