@@ -9,24 +9,16 @@ const config = {
   title: 'KarteLore',
   tagline: 'Pierwszy Geopolityczny serwer minecraft w Polsce!',
   favicon: 'img/favicon.ico',
-
-  // Set the production url of your site here
+  
   url: 'https://docs.kartelore.pl',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
   organizationName: 'KarteloreMc', // Usually your GitHub org/user name.
   projectName: 'karteloredocs', // Usually your repo name.
 
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
-  // Even if you don't use internalization, you can use this field to set useful
-  // metadata like html lang. For example, if your site is Chinese, you may want
-  // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
@@ -44,60 +36,53 @@ const config = {
   ],
 
   themeConfig: {
-    // Replace with your project's social card
     image: 'img/card.png',
     navbar: {
-      title: 'KarteLore', // Set the title of your site, which will be displayed in the navbar
+      title: 'KarteLore',
       logo: {
         alt: 'Logo Strony',
         src: 'img/koronka.png',
       },
       items: [
         {
-          to: 'https://www.kartelore.pl/', // <-- Change the link to the new URL
-          label: 'Strona Serwera', // <-- Change the label to display in the navbar
-          position: 'left', // <-- Change the position as desired (left or right)
+          to: 'https://www.kartelore.pl/',
+          label: 'Strona Serwera', 
+          position: 'left', 
         },
         {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
-          position: 'right',
+          href: 'https://mapa.kartelore.pl/',
+          label: 'Dynmapa',
+          position: 'left',
+        },
+		{
+          href: 'https://sklep.kartelore.pl/',
+          label: 'Sklep',
+          position: 'left',
+        },
+		{
+          href: 'https://discord.gg/kartelore',
+          label: 'Discord',
+          position: 'left',
         },
       ],
+    },
+	algolia: {
+      apiKey: 'e24badb7e4e9ae9554c98fae8c862a82',
+      indexName: 'karteloredocs',
+      appId: 'RQF4GWDI8V',
+
+      // Optional: see doc section bellow
+      // contextualSearch: true,
+
+      //... other Algolia params
     },
     footer: {
       style: 'dark',
       links: [
-        {
-          title: 'Docs',
-          items: [
-            {
-              label: 'Tutorial',
-              to: '/docs/intro',
-            },
-          ],
-        },
-        {
-          title: 'Community',
-          items: [
-            {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
-            },
-          ],
-        },
       ],
       // Use string concatenation instead of template literals
       copyright:
-        'Copyright © ' + new Date().getFullYear() + ' My Project, Inc. Built with Docusaurus.',
+        'Copyright © ' + new Date().getFullYear() + ' KarteLore',
     },
     prism: {
       theme: lightCodeTheme,

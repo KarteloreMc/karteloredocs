@@ -6,13 +6,12 @@ slug: /
 # 🌍 Witamy na Dokumentacji Serwera KarteLore! 
 Znajdziesz tu wiele ważnych informacji na temat naszego serwera
 
+![Witamy na Kartelore](./img/kartelorekoronki.png)
 
 - IP: kartelore.pl (1.18.2-1.20.1)
-- Mapa: tubedziemapa
-- Strona: tubedziestrona
 
 ## Pierwszy Geopolityczny serwer w Polsce!
-Kartelore to nowy oraz pierwszy na skale Polski serwer Geopolityczny, osadzony w średniowieczu 1444 roku. Na serwerze jest niezliczenie wiele smaczków dodających klimatu średniowiecza: ok. 50 średniowiecznych broni, kilamtyczny resourcepack, machiny oblężnicze i wiele innych!
+Kartelore to nowy oraz pierwszy na skale Polski serwer Geopolityczny, osadzony w XV. wiecznym średniowieczu. Na serwerze jest niezliczenie wiele smaczków dodających klimatu średniowiecza: ok. 50 średniowiecznych broni, kilamtyczny resourcepack, machiny oblężnicze i wiele innych!
 
 🎮 Dołącz już teraz do serwera KarteLore i wejdź w świat podbojów, polityki, handlu i nieskończonych możliwości!
 
