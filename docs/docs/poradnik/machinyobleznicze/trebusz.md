@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 
 # Trebusz
-Trebusz to średniowieczna machina oblężnicza do miotania kamieni. Trebusze były niezwykle skuteczne podczas oblężenia murów obronnych, umożliwiając atakującym odległe i strategicznie ważne cele z ogromną siłą i precyzją.
+Trebusz to średniowieczna machina oblężnicza do miotania kamieni. Trebusze były niezwykle skuteczne podczas oblężenia murów obronnych, umożliwiając atakującym odległe i strategicznie ważne cele z ogromną siłą i precyzją. **Trebusze można przesuwać, natomiast nie można się nim poruszać.**
 <br></br>
 <div class="box">
     <img 
@@ -18,13 +18,11 @@ Trebusz to średniowieczna machina oblężnicza do miotania kamieni. Trebusze by
 
 <br></br>
 
-### Gdzie pozyskać Trebusz?
-Trebusz można pozyskać na spawnie od **Inżyniera**, który sprzedaje wszystkie plany na maszyny oblężnicze.
-
 ### Jak załadować pocisk?
 Aby załadować pocisk, musisz naszykować 8 sztuk kamienia, a następnie nacisnąć **PPM** na machinę.
 
 <br></br>
+
 
 ### Jak wystrzelić pocisk?
 Aby wystrzelić pocisk, klikamy **LPM** w miejsce, które pocisk ma trafić.

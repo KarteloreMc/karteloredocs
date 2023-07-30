@@ -3,7 +3,7 @@ sidebar_position: 2
 ---
 
 # Katapulta
-Katapulta to ciut słabsza machina, która służy do atakowania murów przeciwnika.
+Katapulta to ciut słabsza machina, która służy do atakowania murów przeciwnika. Katapultą można się poruszać, im więcej osób jest przy niej, tym szybciej się porusza.
 <br></br>
 <div class="box">
     <img 
@@ -17,9 +17,6 @@ Katapulta to ciut słabsza machina, która służy do atakowania murów przeciwn
 
 
 <br></br>
-
-### Gdzie pozyskać katapulte?
-Katapulte można pozyskać na spawnie od **Inżyniera**, który sprzedaje wszystkie plany na maszyny oblężnicze.
 
 ### Jak załadować pocisk?
 Aby załadować pocisk, musisz naszykować 4 sztuki kamienia, a następnie nacisnąć **PPM** na machinę.
