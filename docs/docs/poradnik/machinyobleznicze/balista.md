@@ -32,7 +32,7 @@ Po jakimś czasie machina może się zablokować, użyj wtedy patyka i naciśnij
 
 <div class="box">
     <img 
-    src={require('./img/balista.gif').default}
+    src={require('./img/balistaladowanie.gif').default}
     alt="balistastrzal"
     width="500"
     />
