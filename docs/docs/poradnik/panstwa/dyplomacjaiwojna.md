@@ -2,8 +2,8 @@
 sidebar_position: 2
 title: Dyplomacja i Wojny
 ---
-
-# Dyplomacja i Wojny
+![Dyplomacja](./img/dyplomacja.png)
+# Dyplomacja
 
 ### Sojusze
 - Użyj **/ally `nazwa_miasta/nazwa_panstwa`** aby wysłać, bądź zaakceptować ofertę **sojuszu**.

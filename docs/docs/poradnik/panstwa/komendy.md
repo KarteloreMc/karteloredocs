@@ -2,6 +2,7 @@
 sidebar_position: 5
 title: Komendy
 ---
+![Komendy](./img/komendy.png)
 # Komendy - Państwa
 
 ### Ustawienia czatu
