@@ -19,11 +19,11 @@ Kartelore to nowy oraz pierwszy na skale Polski serwer Geopolityczny, osadzony w
 
 ## Więcej o serwerze
 - ⚙ Brak wymaganych modów.
-- 🏴󠁭󠁶󠁵󠁮󠁿 Pierwszy w polsce plugin na państwa z systemem prowincji z gry Europa Universalis 4
+- 🏴󠁭󠁶󠁵󠁮󠁿 Pierwszy w polsce plugin na państwa z systemem prowincji z gry Europa Universalis 4.
 - ⚔️ 45 nowych broni takich jak: Maczuga, Buława, Włócznia, Topór bojowy i wiele innych!
-- 🗺 Mapa **Europy** w skali 1:500
+- 🗺 Mapa **Europy** w skali 1:500.
 - 🏰 Geopolityczny i średniowieczny roleplay.
-- 🔊 Immersywne dźwięki otoczenia w zależności od biomu
+- 🔊 Immersywne dźwięki otoczenia w zależności od biomu.
 - 💰 Rozwinięty system ekonomii i handlu.
 - 🪑 788 modeli mebli średniowiecznych!
 - 💣 Machiny oblężnicze!
