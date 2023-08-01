@@ -39,7 +39,7 @@ Każda prowincja może mieć po jednej **rafinerii** każdego typu.
 W kuźni po połączeniu 64 sztuk żelaza, 16 sztuk węgla i 16 sztuk stali otrzymasz jedną, lecz bardzo cenną sztabkę **ciężkiej stali**.
 
 - Aby zobaczyć ekwipunek rafinerii użyj **/rafineria**, stojąc na prowincji, gdzie jest rafineria.
-- Gdy minie czas rafineria przetworzy zasoby na **/miasto przychod** 
+- Gdy minie czas rafineria przetworzy zasoby na **/miasto przychod**.
 
 :::info Informacja
 Czas przetwarzania rafinerii pierwszego tieru wynosi 30 minut, tieru drugiego 15 minut, a tieru trzeciego jedynie 3 minuty!
