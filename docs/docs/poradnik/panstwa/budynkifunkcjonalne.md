@@ -26,7 +26,7 @@ Budynki funkcjonalne podlegają ocenie administracji - dokładniej osobom z rang
 - +250% Boost do przychodu z prowincji
 - +75% Boost do dropu z kamienia na danej prowincji
 
-### Metorpolia (Tier 4)
+### Metropolia (Tier 4)
 - +500% Boost do przychodu z prowincji
 - +150% Boost do dropu z kamienia na danej prowincji
 
