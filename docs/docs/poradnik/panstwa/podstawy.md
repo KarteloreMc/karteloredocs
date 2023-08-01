@@ -3,7 +3,7 @@ sidebar_position: 1
 title: Państwa - Podstawy
 ---
 
-
+![Podstawy](./img/podstawy.png)
 ## Jak działa plugin?
 - Mapa jest podzielona na prowincje wyświetlane na naszej [dynmapie](https://mapa.kartelore.pl/), takie jak w grze Europa Universalis 4.
 - Każda prowincja ma swój unikalny zasób:
