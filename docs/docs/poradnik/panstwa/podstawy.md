@@ -23,6 +23,10 @@ Szansa na wydropienie surowca z danej rudy wynosi jedynie 50%, więc żeby zdoby
 3. Zaproś do swojego miasta graczy używając komendy /t invite [nazwa gracza].
 4. Zwiąż się sojuszem z innymi miastami, używając /ally [nazwa miasta].
 
+:::warn Uwaga!
+Po usunięciu, bądź utracie miasta możesz zrobić kolejne po upływie 12 godzin!
+:::
+
 :::info Informacja
 Aby zobaczyć układ prowincji na mapie możesz użyć komend `/miasto mapa`, `/miasto minimapa` lub wejść na stronę [dynmapy serwera](https://mapa.kartelore.pl/).
 :::
