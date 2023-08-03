@@ -25,7 +25,7 @@ Aby załadować pocisk, musisz naszykować 8 sztuk kamienia, a następnie nacisn
 
 
 ### Jak wystrzelić pocisk?
-Aby wystrzelić pocisk, klikamy **LPM** w miejsce, które pocisk ma trafić. Do tego może przydać się Optifine, który pozwala na zbliżenie celu.
+Aby wystrzelić pocisk, klikamy **LPM** w miejsce, które pocisk ma trafić. 
 
 <div class="box">
     <img 
