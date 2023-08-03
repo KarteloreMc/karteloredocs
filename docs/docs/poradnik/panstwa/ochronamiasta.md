@@ -4,7 +4,6 @@ title: Ochrona miasta
 ---
 
 ![Ochrona miasta](./img/ochronamiasta.png)
-# Ochrona miasta
 Użyty przez nas plugin na miasta oferuje szeroką gamę zabezpieczeń dla twojego miasta, dzięki czemu nie musisz na każdym kroku obawiać sie o utrate swojego postępu.
 
 ## Permisje
