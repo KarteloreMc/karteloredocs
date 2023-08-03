@@ -13,11 +13,11 @@ title: Dyplomacja i Wojny
 	- Po rozwiązaniu sojuszu miasta wchodzą w okres 48-o godzinnego **rozejmu**, podczas którego państwa te nie mogą wypowiedzieć sobie wojny.
 
 :::info Informacja
-Miasta mogą tworzyć sojusze bez państwa. Kiedy miasto dołącza do państwa, wszystkie poprzednie sojusze się usuwają. Kiedy miasto wychodzi z państwa, jego sojusze też zostają usunięce. Kiedy państwo zostanie usunięte, wszystkie sojusze miast się usuwają.
+Miasta mogą tworzyć sojusze bez państwa. Kiedy miasto dołącza do państwa, wszystkie poprzednie sojusze się usuwają. Kiedy miasto wychodzi z państwa, jego sojusze też zostają usunięte. Kiedy państwo zostanie usunięte, wszystkie sojusze miast się usuwają.
 :::
 
 ### Wojny
-- Podczas wojny miasta mogą zajmować i okupować bądz anektować prowincje innych miast.
+- Podczas wojny miasta mogą zajmować i okupować, bądź anektować prowincje innych miast.
 - Aby wypowiedzieć wojnę należy użyć komendy **/wojna `nazwa_miasta/nazwa_panstwa`**. Jeżeli twój przeciwnik jest w państwie, wszystkie miasta z państwa wezmą udział w wojnie.
 - Miasta mogą zakończyć wojnę traktatem pokojowym. Po takowym traktacie miasta wchodzą w stan **rozejmu**, podczas którego przez 48 godzin nie mogą wypowiedzieć sobie wojny. Dzięki temu pokonane państwo będzie miało czas na rozbudowe i kontratak, o ile nie zostało ono całkowicie zajęte w ramach owego traktatu.
 - W odróżnieniu od czasu pokoju, w czasie wojen włączone są **eksplozje**!
@@ -33,7 +33,7 @@ Aby zaatakować prowincje stawiamy dowolny **płotek** na chunku (płotek ma imi
 - "Flaga" musi widzieć niebo, nie może być postawiona pod ziemią lub pod wodą.
 - Zniszcz wełnę lub płotek by przerwać atak przeciwnika (po postawieniu **płotka**, plugin automatycznie kładzie na niego wełnę).
 - Jeżeli "flaga" nie zostanie znisczona, po upływie 45 sekund zajmiesz chunk'a. Możesz obudować "flagę", jednak nie możesz postawić bloku w obrębie jednej kratki od "flagi".
-- Zajmij home chunk (**H** na /miasto minimapa lub /miasto mapa) aby zająć całą prowincję, tym samym ją okupując. Pamiętaj jednak, że zajmowanie Home chunka trwa prawie pięć minut!
+- Zajmij Home chunk (**H** na /miasto minimapa lub /miasto mapa) aby zająć całą prowincję, tym samym ją okupując. Pamiętaj jednak, że zajmowanie Home chunka trwa prawie pięć minut!
 
 <div class="box">
     <img 
@@ -69,7 +69,7 @@ Anektowana prowincja działa jak każda inna zajęta prowincja przez twoje miast
 
 ### Traktaty pokojowe
 - Wpisz **/pokoj `nazwa_miasta/nazwa_panstwa`** aby negocjować **traktat pokojowy**, otwiera to GUI traktatu pokojowego.
-- Traktat pokojowy może być negocjowany w każdym czasie, nawet przed wojną, lub po jej zakończeniu. W ramach komendy **/pokoj `nazwa_miasta/nazwa_panstwa`** możesz np sprzedawać prowincje innym graczom.
+- Traktat pokojowy może być negocjowany w każdym czasie, nawet przed wojną, lub po jej zakończeniu. W ramach komendy **/pokoj `nazwa_miasta/nazwa_panstwa`** możesz np. sprzedawać prowincje innym graczom.
 - Po podpisanym traktacie pokojowym, miasta wchodzą w okres rozejmu na 48h.
 	- Państwa w rozejmie nie mogą wypowiadać sobie wojen.
 	- Wpisz **/rozejm** aby zobaczyć trwające rozejmy z innymi miastami.

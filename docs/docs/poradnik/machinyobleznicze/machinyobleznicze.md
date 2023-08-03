@@ -1,6 +1,8 @@
 # Machiny Oblężnicze
 
-Machiny oblężnicze pozwalają na bardziej realistyczne bitwy średniowieczne na serwerze. Dzięki nim można oblegać miasto i zmusić broniącego się do kapitulacji powodując duże zniszczenia w budynku.
+Machiny oblężnicze pozwalają na bardziej realistyczne, średniowieczne bitwy na serwerze. Dzięki nim możesz oblegać miasto i zmusić broniących się do kapitulacji powodując duże zniszczenia budynków.
+
+W celowaniu machinami bardzo pomocny jest Optifine, który pozwala na przybliżenie celu.
 
 Machiny uzyskasz od inżyniera na spawnie, który sprzedaje je za dukaty.
 

@@ -1,5 +1,5 @@
 # Balista
-Balista to potężna machina oblężnicza, służąca do zwalczania piechoty. Potrafi ona zabijać przeciwników z dalekiego zasięgu jednym pociskiem. **Balistą można się poruszać, im więcej osób jest przy niej, tym szybciej się porusza.**
+Balista to potężna machina oblężnicza, służąca do zwalczania piechoty. Potrafi ona zabijać przeciwników z dalekiego zasięgu jednym pociskiem. **Balistą można się poruszać, przy czym większa ilość osób pchających ją skutkuje dużo szybszym przemieszczaniem jej.**
 <br></br>
 <div class="box">
     <img 

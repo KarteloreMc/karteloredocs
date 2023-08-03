@@ -6,13 +6,13 @@ title: Budynki Funkcjonalne
 # Budynki Funkcjonalne
 Jak dobrze wiecie, nowa edycja będzie odbywać się w czasach średniowiecznych, w związku z tym narzucony będzie średniowieczny styl budowania. Żadne kary za niewłaściwy styl budynku typu ban lub zniszczenie budowli nie będą stosowane przez administrację, jednak zachowanie immersji budowli jest bardzo mile widziane i bardzo opłacalne dla graczy.
 
-By urozmaicić chęć budowania, dodano **budynki funkcjonalne**! Wyróżniamy: miasto, kuźnię, zbrojownię, farmę, port oraz rafinerię. Na czym one polegają?
+By urozmaicić chęć budowania, dodano **budynki funkcjonalne**! Wyróżniamy: miasto, kuźnię, oraz port. Na czym one polegają?
 
 ## Tiery miast
 Jeżeli zbudujesz ładny, średniowieczny budynek w prowincji, otrzymasz bardzo fajne i korzystne bonusy na jej terenie! W zależności od jakości i wyglądu budynku, twoja prowincja dostanie bonus w zależności od **tieru miasta**.
 
 :::info Informacja
-Budynki funkcjonalne podlegają ocenie administracji - dokładniej osobom z rangą Minecraft Staff, zatem trzeba się postarać aby zdobyć wysokie bonusy do surowców. Wszystkie budynki funkcjonalne mają dane tiery (poziomy), wyższe tiery są trudniejsze do zdobycia, jednak zapewniaja dużo większe bonusy. Jako administracja nie spodziewamy się wielu miast z maksymalnym tierem, jednak liczymy na waszą kreatywność!
+Budynki funkcjonalne podlegają ocenie administracji - dokładniej osobom z rangą Minecraft Staff, zatem trzeba się postarać aby zdobyć wysokie bonusy do surowców. Wszystkie budynki funkcjonalne mają dane tiery (poziomy), wyższe tiery są trudniejsze do zdobycia, jednak zapewniaja dużo większe bonusy. Jako administracja nie spodziewamy się wielu Metropolii, jednak liczymy na waszą kreatywność!
 :::
 
 ### Tier 1
@@ -39,7 +39,7 @@ Każda prowincja może mieć po jednej **rafinerii** każdego typu.
 W kuźni po połączeniu 64 sztuk żelaza, 16 sztuk węgla i 16 sztuk stali otrzymasz jedną, lecz bardzo cenną sztabkę **ciężkiej stali**.
 
 - Aby zobaczyć ekwipunek rafinerii użyj **/rafineria**, stojąc na prowincji, gdzie jest rafineria.
-- Gdy minie czas rafineria przetworzy zasoby na **/miasto przychod**.
+- Gdy minie określony czas rafineria przetworzy zasoby na **/miasto przychod**.
 
 :::info Informacja
 Czas przetwarzania rafinerii pierwszego tieru wynosi 30 minut, tieru drugiego 15 minut, a tieru trzeciego jedynie 3 minuty!
