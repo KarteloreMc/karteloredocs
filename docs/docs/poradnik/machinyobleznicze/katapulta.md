@@ -3,7 +3,7 @@ sidebar_position: 2
 ---
 
 # Katapulta
-Katapulta to ciut słabsza machina, która służy do atakowania murów przeciwnika. Katapultą można się poruszać, im więcej osób jest przy niej, tym szybciej się porusza.
+Katapulta to słabsza od trebusza, jednak niemniej potężna machina, która służy do atakowania murów przeciwnika. Katapultą można się poruszać, przy czym większa ilość osób pchających ją skutkuje dużo szybszym przemieszczaniem jej. Katapulta czyni stosunkowo mniejsze zniszczenia od trebuszu, jednak pozwala na częstsze strzelanie.
 <br></br>
 <div class="box">
     <img 
@@ -24,7 +24,7 @@ Aby załadować pocisk, musisz naszykować 4 sztuki kamienia, a następnie nacis
 <br></br>
 
 ### Jak wystrzelić pocisk?
-Aby wystrzelić pocisk, klikamy **LPM** w miejsce, które pocisk ma trafić.
+Aby wystrzelić pocisk, naciśnij **LPM** w miejsce, które pocisk ma trafić.
 
 <div class="box">
     <img 
