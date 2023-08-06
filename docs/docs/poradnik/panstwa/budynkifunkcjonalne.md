@@ -30,6 +30,11 @@ Budynki funkcjonalne podlegają ocenie administracji - dokładniej osobom z rang
 - +500% Boost do przychodu z prowincji
 - +150% Boost do dropu z kamienia na danej prowincji
 
+:::info Informacja
+Pierwszy tier miasta wymaga budynków o łącznej powierzchni 200 kratek, drugi tier wymaga już 500 kratek powierchni. Miasta otrzymują tier trzeci, jeżeli są stosunkowo większe od miasta tieru drugiego oraz jeżeli zaskoczyły administrację. Miasto czwartego tieru, tuteż Metropolia, wymaga zbudowanego na conajmniej drugi tier miasta oraz monumentalnej budowli pokroju świątyni, czy pałacu. Jeżeli administracja uzna jednak, że zbudowany monument jest wystarczająco imponujący, czwarty tier może zostać przyznany bez wcześniejszej budowy miasta. 
+:::
+
+
 ## Rafinerie
 Różne itemy np. ciężka stal potrzebują **rafinerii** do ich wytworzenia, którą trzeba oczywiście zbudować, jeżeli tego nie zrobisz będziesz musiał kupywać zasób od innych prowincji.
 Każdy typ **rafinerii** ma 3 tiery. Tiery **rafinerii** przypisywane będą przez administrację. Tutaj jednak każdy kolejny tier zamiast dawać więcej surowców, przyspiesza jedynie produkcję. 
@@ -43,6 +48,7 @@ W kuźni po połączeniu 64 sztuk żelaza, 16 sztuk węgla i 16 sztuk stali otrz
 
 :::info Informacja
 Czas przetwarzania rafinerii pierwszego tieru wynosi 30 minut, tieru drugiego 15 minut, a tieru trzeciego jedynie 3 minuty!
+Pierwszy tier kuźni wymaga budynku o powierzchni 25 kratek, drugi - 50, a trzeci już stu kratek. Kuźnia musi być zbudowana w stylu średniowiecznym, aby otrzymać wyższe tiery.
 :::
 
 ## Porty
