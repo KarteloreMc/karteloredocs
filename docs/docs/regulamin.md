@@ -95,6 +95,8 @@ sidebar_position: 2
 
 5.5. Zakaz tworzenia tymczasowych miast/państw bez określonego powodu.
 
+5.6. Zakaz dodawania emoji do nazwy państwa (wymówki pokroju przypadkowego dodania nie będą uznawane).
+
 
 ### Regulacje dotyczące budynków/RP:
 
