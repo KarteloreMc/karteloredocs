@@ -17,6 +17,9 @@ Bank ma swój limit zależny od rangi$
 - Przejmuj majątki innych graczy podczas wojen,
 - Wyznaczaj reparacje wojenne po wygranych wojnach.
 
+## Jak zrobić własny sklep?
+Aby zrobić własny sklep postaw skrzynkę, następnie patrząc się na nią wpisz komendę **/$**. Po wpisaniu tej komendy przytrzymaj shift i naciśnij PPM na sklep aby go skonfigurować.
+
 :::info Informacja
 Ekonomia zbalansowana jest tak, że gracze muszą ze sobą handlować. Wynika to z faktu braku możliwości kupywania surowców na spawnie oraz specjalnie zbalansowanych surowców.
 :::
