@@ -8,6 +8,10 @@ Jak dobrze wiecie, nowa edycja będzie odbywać się w czasach średniowiecznych
 
 By urozmaicić chęć budowania, dodano **budynki funkcjonalne**! Wyróżniamy: miasto, kuźnię, oraz port. Na czym one polegają?
 
+:::caution Uwaga!
+Aby zgłosić swój budynek funkcjonalny przejdź do kanału **#budynki-funkcjonalne** na naszym serwerze Discord!
+:::
+
 ## Tiery miast
 Jeżeli zbudujesz ładny, średniowieczny budynek w prowincji, otrzymasz bardzo fajne i korzystne bonusy na jej terenie! W zależności od jakości i wyglądu budynku, twoja prowincja dostanie bonus w zależności od **tieru miasta**.
 
