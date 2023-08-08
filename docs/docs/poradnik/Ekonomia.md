@@ -20,6 +20,7 @@ Bank ma swój limit zależny od rangi$
 :::info Informacja
 Ekonomia zbalansowana jest tak, że gracze muszą ze sobą handlować. Wynika to z faktu braku możliwości kupywania surowców na spawnie oraz specjalnie zbalansowanych surowców.
 :::
+
 ## Pytania dotyczące sklepów
 
 ### Jak zrobić własny sklep?
@@ -46,6 +47,10 @@ Aby usunąć sklep, musisz patrzeć na skrzynkę, która jest magazynem sklepu, 
 
 ### Inne pytania dotyczące sklepów
 Aby otrzymać odpowiedzi na wszystkie inne pytania dotyczące sklepów, udaj się na nasz serwer Discord i stwórz Ticket na kanale #tickety. Jeżeli nie wiesz jak to zrobić możesz zadać swoje pytanie na chacie głównym, bądź w wiadomości prywatnej do dowolnego członka moderacji.
+
+## Aukcje
+Na serwerze możesz bardzo łatwo odpalić menu aukcji, w których możesz wystawiać specjalne przedmioty za określoną przez Ciebie cenę. Każda aukcja znika z menu aukcji po upływie dokładnie 8 dni. Do menu aukcji gracze mają dostęp $$$$
+$$$$$$
 
 ## Dlaczego dukaty w formie fizycznej?
 Ekonomia opiera się na dukatach w formie fizycznej w celu dodania immersji. Takie rozwiązanie pozwala między innymi na większe zdobycze podczas wojen oraz na napadanie na innych graczy podczas ich podróży po mapie. Ekonomia w takiej formie jest całkowicie autorska, przez co nasz serwer znacznie wyróżnia się na tle innych. Przy takim rozwiązaniu wszystkie transakcje dokonywane są przy użyciu fizycznych dukatów, co dodatkowo buduje średniowieczny klimat serwera.
