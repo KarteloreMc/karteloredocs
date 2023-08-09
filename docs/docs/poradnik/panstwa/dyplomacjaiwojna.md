@@ -23,7 +23,7 @@ Miasta mogą tworzyć sojusze bez państwa. Kiedy miasto dołącza do państwa, 
 - W odróżnieniu od czasu pokoju, w czasie wojen włączone są **eksplozje**!
 
 :::caution Uwaga!
-Nie możesz wypowiadać wojny państwu/miastu, które nie ma graczy online. 
+Nie możesz wypowiadać wojny państwu/miastu, które nie ma graczy online. W celu uniknięcia sytuacji, w których jeden kraj wypowiada wojnę drugiemu z jedną osobą online, wojny włączone są codziennie w godzinach 17:00 - 20:00.
 :::
 
 ### Atakowanie prowincji
