@@ -2,8 +2,8 @@
 sidebar_position: 5
 title: Komendy
 ---
+
 ![Komendy](./img/komendy.png)
-# Komendy - Państwa
 
 ### Ustawienia czatu
 Te ustawienia zmieniają twój **kanał czatu**, tzn. kiedy piszesz na czacie, tylko gracze z twojego miasta, państwa lub sojuszu zobaczą wiadomość.

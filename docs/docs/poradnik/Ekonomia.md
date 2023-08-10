@@ -21,7 +21,8 @@ Ekonomia zbalansowana jest tak, że gracze muszą ze sobą handlować. Wynika to
 
 ### Jak zrobić własny sklep?
 Aby zrobić własny sklep postaw skrzynkę, wybierz na dolnym pasku przedmiot jaki chcesz sprzedawać (w późniejszej fazie będziesz mógł dodawać kolejne), a następnie patrząc się na postawioną skrzynkę wpisz komendę **/sklep stworz**. Po wpisaniu tej komendy przytrzymaj shift i naciśnij PPM na sklep aby go skonfigurować. 
-W celu zrobienia własnego targowiska możesz zbudować port, do którego gracze będą bez problemu mogli się szybko przemieszczać. 
+W celu zrobienia własnego targowiska możesz zbudować port, do którego gracze będą bez problemu mogli się szybko przemieszczać.
+![Ustawienia Sklepu](./img/ustawieniasklepu.png) 
 
 ### Jak dokładać/wyjmować przedmioty ze sklepu?
 Aby dokładać/wyjmować przedmioty ze sklepu naciśnij na niego **PPM**.
@@ -46,7 +47,7 @@ Aby otrzymać odpowiedzi na wszystkie inne pytania dotyczące sklepów, udaj si�
 
 ## Aukcje
 Na naszym serwerze znajdziecie system aukcji w postaci otwartego dla graczy sklepu. Sklep ten znajdziecie na spawnie pod nazwą Dom Aukcyjny. Przedmioty na aukcje można wystawiać w każdej chwili używając komendy **/aukcjasprzedaj `[cena]`**, przy czym minimalna cena wynosi 10 dukatów. Aukcje mają na celu wprowadzić możliwość handlowania bardziej cennymi przedmiotami, lub prowincjami. W menu aukcji nie można podbijać ceny, da się jedynie wystawiać lub kupować przedmioty. Wystawione na aukcję przedmioty są możliwe do kupienia przez okres 8 dni. Po tym czasie albo przedmiot zostanie kupiony albo zwrócony właścicielowi.
-
+![Aukcje](./img/domaukcyjny.png)
 ## Dlaczego dukaty w formie fizycznej?
 Ekonomia opiera się na dukatach w formie fizycznej w celu dodania immersji. Takie rozwiązanie pozwala między innymi na większe zdobycze podczas wojen oraz na napadanie na innych graczy podczas ich podróży po mapie. Ekonomia w takiej formie jest całkowicie autorska, przez co nasz serwer znacznie wyróżnia się na tle innych. Przy takim rozwiązaniu wszystkie transakcje dokonywane są przy użyciu fizycznych dukatów, co dodatkowo buduje średniowieczny klimat serwera.
 

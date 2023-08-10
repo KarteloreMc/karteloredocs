@@ -2,8 +2,9 @@
 sidebar_position: 3
 title: Budynki Funkcjonalne
 ---
+
 ![Budynki Funkcjonalne](./img/BudynkiFunkcjonalne.png)
-# Budynki Funkcjonalne
+
 Jak dobrze wiecie, nowa edycja będzie odbywać się w czasach średniowiecznych, w związku z tym narzucony będzie średniowieczny styl budowania. Żadne kary za niewłaściwy styl budynku typu ban lub zniszczenie budowli nie będą stosowane przez administrację, jednak zachowanie immersji budowli jest bardzo mile widziane i bardzo opłacalne dla graczy.
 
 By urozmaicić chęć budowania, dodano **budynki funkcjonalne**! Wyróżniamy: miasto, kuźnię, oraz port. Na czym one polegają?
