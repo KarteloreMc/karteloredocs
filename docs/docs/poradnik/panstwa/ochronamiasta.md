@@ -5,9 +5,6 @@ sidebar_position: 4
 ![Ochrona miasta](./img/ochronamiasta.png)
 # Ochrona miasta
 Użyty przez nas plugin na miasta oferuje szeroką gamę zabezpieczeń dla twojego miasta, dzięki czemu nie musisz na każdym kroku obawiać sie o utrate swojego postępu.
-=======
-# Ochrona miasta
-Użyty przez nas plugin na miasta oferuje szeroką gamę zabezpieczeń dla twojego miasta, dzięki czemu nie musisz na każdym kroku obawiać sie o utratę swojego postępu.
 
 ## Permisje
 Ustaw permisje dla interakcji wykonywanych w mieście (budowanie, niszczenie, używanie drzwi, otwieranie skrzynek, itd...) używając poniższej komendy. Aby zobaczyć obecne permisje użyj **/miasto permisje**. Nie ma indywidualnych permisji dla gracza, chunka bądz prowincji.
