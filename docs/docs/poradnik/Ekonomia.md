@@ -53,7 +53,7 @@ Ekonomia opiera się na dukatach w formie fizycznej w celu dodania immersji. Tak
 
 ## Jakie sklepy znajdują się na spawnie?
 Na spawnie znajduje się wiele różnych sklepów. Każdy sklep pozwala na sprzedaż przedmiotów z danej kategorii. 
-W sumie na spawnie znajduje się 8 sklepów:
+W sumie na spawnie znajduje się 9 sklepów:
 - Sklep blokarzowej,
 - Sklep żywnościowy,
 - Sklep górniczy,
@@ -61,7 +61,8 @@ W sumie na spawnie znajduje się 8 sklepów:
 - Sklep drwala,
 - Sklep z wełną,
 - Sklep łowcy,
-- Sklep inżyniera.
+- Sklep inżyniera,
+- Sklep ItemsAdder (specjalne przedmioty).
 
 :::info Informacja
 Jeżeli nie możesz znaleźć danego sklepu, postaraj się znaleźć znaki lub tabliczki, które mogą do niego prowadzić.
