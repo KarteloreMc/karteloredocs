@@ -104,7 +104,9 @@ sidebar_position: 2
 
 6.2. Zakaz budowania tzw. "Sky Base" (bazy na wysokości) lub baz na oceanie.
 
-6.3. Żaden rów w formie obronnej fosy bazy nie może być głębszy/grubszy niż 7 bloków. Takowe rowy nie mogą zawierać lawy.
+6.3. Żaden rów w formie obronnej fosy bazy nie może być głębszy/grubszy niż 7 bloków. Takowe rowy nie mogą zawierać lawy. 
+
+6.3.1. Żadne mury lub inne fortyfikacje obronne nie mogą być wypełnione lawą, wodą lub obsydianem.
 
 6.4. Zakaz rozszerzania lub wykopywania wybrzeży w taki sposób, aby uczynić siebie niepodatnym na ataki (wyjątek stanowi tworzenie miejsca na port).
 
