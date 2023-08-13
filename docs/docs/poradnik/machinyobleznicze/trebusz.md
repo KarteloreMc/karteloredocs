@@ -24,6 +24,7 @@ Do trebusza możesz załadować 3 różne pociski:
 - Pocisk zwykły - 8 Sztuk kamienia,
 - Pocisk zapalający - Jedna pochodnia i 8 Sztuk kamienia - aby załadować ten pocisk musisz wziąść do ręki pochodnię i nacisnąć na trebusz **PPM**,
 - Pocisk otruwający - 32 Sztuki Zgniłego mięsa.
+
 Aby załadować dany pocisk naszykuj sobie wymagane przedmioty, a następnie naciśnij **PPM** na zbudowaną machinę.
 
 <br></br>
