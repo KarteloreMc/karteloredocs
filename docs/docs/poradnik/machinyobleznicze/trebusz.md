@@ -4,6 +4,7 @@ sidebar_position: 1
 
 # Trebusz
 Trebusz to średniowieczna machina oblężnicza służąca do miotania kamieni. Trebusze były niezwykle skuteczne podczas oblężenia murów obronnych, ponieważ pozwalały na bardzo precyzyjny atak celi znajdujących się w dużym dystansie. **Trebusze można przesuwać, natomiast nie można się nim poruszać.**
+Zbudowanie trebusza wymaga wielorazowego **blueprint'u** (planu), 48 dębowych pni, 32 sztuk kamienia oraz 16 sztuk żelaza.
 <br></br>
 <div class="box">
     <img 
@@ -19,7 +20,12 @@ Trebusz to średniowieczna machina oblężnicza służąca do miotania kamieni. 
 <br></br>
 
 ### Jak załadować pocisk?
-Aby załadować pocisk, musisz naszykować 8 sztuk kamienia, a następnie nacisnąć **PPM** na machinę.
+Do trebusza możesz załadować 3 różne pociski:
+- Pocisk zwykły - 8 Sztuk kamienia,
+- Pocisk zapalający - Jedna pochodnia i 8 Sztuk kamienia - aby załadować ten pocisk musisz wziąść do ręki pochodnię i nacisnąć na trebusz **PPM**,
+- Pocisk otruwający - 32 Sztuki Zgniłego mięsa.
+
+Aby załadować dany pocisk naszykuj sobie wymagane przedmioty, a następnie naciśnij **PPM** na zbudowaną machinę.
 
 <br></br>
 
