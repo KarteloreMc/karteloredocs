@@ -1,8 +1,9 @@
 ---
 sidebar_position: 4
+title: Ekonomia
 ---
+![Ekonomia](./img/ekonomia.png)
 
-# Ekonomia
 Na naszym serwerze znajdziesz rozwinięty i unikatowy plugin na ekonomię oparty na fizycznych dukatach. Wartość jednego dukata jest bardzo wysoka - tak jak w prawdziwym średniowieczu, dla przykładu jeden dukat warty jest 64 sztuki kamienia, czy 8 sztuk żelaza. 
 Dukaty poza formą fizyczną można przechowywać w banku. Aby to zrobić należy udać się na spawn i znaleźć bankiera, który bez problemu wpłaci lub wypłaci wam pieniądze. Korzystanie z usług bankiera jest całkowicie darmowe.
 

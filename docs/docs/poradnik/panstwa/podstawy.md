@@ -44,7 +44,7 @@ Na serwerze występuje sytem anty-AFK. Ma on na celu zapobiec bezsensownemu zdob
 :::
 
 ## Jak sprawdzić zasoby prowincji?
-Zasoby prowincji można sprawdzić na 2 sposoby albo przez wpisanie komendy **/nodess terytorium `ID`**, albo poprzez wejście na stronę [mapy serwera](https://mapa.kartelore.pl/), wybranie prowincji lewym przyciskiem myszy oraz najechanie na ikonkę surowca w lewym dolnym rogu.
+Zasoby prowincji można sprawdzić na 2 sposoby albo przez wpisanie komendy **/nodes terytorium `ID`**, albo poprzez wejście na stronę [mapy serwera](https://mapa.kartelore.pl/), wybranie prowincji lewym przyciskiem myszy oraz najechanie na ikonkę surowca w lewym dolnym rogu.
 
 ## Przychód Miasta
 Każda prowincja z ustalonym przychodem, co godzinę generuje surowce, które można odebrać używając komendy **/miasto przychod**. Używając tej komendy można odebrać zasoby z całego miasta bez konieczności przemieszczania się do poszczególnych prowincji. Podczas okupacji, okupant otrzymuje jedynie 40% zasobów prowincji.
