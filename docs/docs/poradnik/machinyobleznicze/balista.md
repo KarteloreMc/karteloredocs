@@ -16,7 +16,11 @@ Zbudowanie Balisty wymaga wielorazowego **blueprint'u** (planu), 48 dębowych pn
 <br></br>
 
 ### Jak załadować pocisk?
-Aby załadować pocisk, musisz naszykować 8 sztuk sztabek żelaza, a następnie nacisnąc **PPM** na machinę.
+Do balisty możesz załadować 2 różne pociski:
+- Pocisk zwykły - 8 Sztabek żelaza,
+- Pocisk zapalający - Jedna pochodnia i 8 Sztuk żelaza - aby załadować ten pocisk musisz wziąść do ręki pochodnię i nacisnąć na balistę **PPM**,
+
+Aby załadować dany pocisk naszykuj sobie wymagane przedmioty, a następnie naciśnij **PPM** na zbudowaną machinę.
 
 <br></br>
 
