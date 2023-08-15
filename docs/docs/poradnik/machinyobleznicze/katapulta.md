@@ -20,7 +20,12 @@ Zbudowanie katapulty wymaga wielorazowego **blueprint'u** (planu), 48 dębowych 
 <br></br>
 
 ### Jak załadować pocisk?
-Aby załadować pocisk, musisz naszykować 4 sztuki kamienia, a następnie nacisnąć **PPM** na machinę.
+Do katapulty możesz załadować 3 różne pociski:
+- Pocisk zwykły - 4 Sztuk kamienia,
+- Pocisk zapalający - Jedna pochodnia i 4 Sztuk kamienia - aby załadować ten pocisk musisz wziąść do ręki pochodnię i nacisnąć na katapultę **PPM**,
+
+Aby załadować dany pocisk naszykuj sobie wymagane przedmioty, a następnie naciśnij **PPM** na zbudowaną machinę.
+
 
 <br></br>
 
