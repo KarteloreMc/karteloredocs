@@ -74,6 +74,10 @@ Anektowana prowincja działa jak każda inna zajęta prowincja przez twoje miast
 	- Państwa w rozejmie nie mogą wypowiadać sobie wojen.
 	- Wpisz **/rozejm** aby zobaczyć trwające rozejmy z innymi miastami.
 
+::caution Uwaga!
+Menu traktatów pokojowych nie akceptuje niestandardowych przedmiotów, zatem płacone dukaty muszą zostać przekazane poprzez wyrzucenie lub poprzez komendę **/trade**.
+::
+
 	
 
 
