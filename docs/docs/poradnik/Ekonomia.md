@@ -35,7 +35,7 @@ Każdy sklep postawiony przez danego gracza ma wspólny **bank**, aby wpłacić 
 Aby przeglądać wszystkie sklepy graczy znajdujące się na serwerze użyj komendy **/sklep lista**. Komenda ta wyświetli wszystkie sklepy bez konieczności monotomnego szukania ich po mapie.
 
 ### Jak kupić wybrany przedmiot u dowolnego gracza?
-Aby znaleźć sklepy sprzedające interesujący nas przedmiot należy użyć komendy **/sklep szukaj `[nazwa_przedmiotu]`**. Po użyciu tej komendy gra wyświetli GUI zawierające wszystkie interesujące nas sklepy.
+Aby znaleźć sklepy sprzedające interesujący nas przedmiot należy użyć komendy **/shop search `[nazwa_przedmiotu]`**. Po użyciu tej komendy gra wyświetli GUI zawierające wszystkie interesujące nas sklepy.
 
 ### Jak kupować od wybranego gracza?
 Aby znaleźć sklepy wystawione przez wybranego gracza należy użyć komendy **/sklep zobacz `[nazwa_gracza]`**. Komenda ta wyświetli wszystkie sklepy stworzone przez wybranego gracza, co pozwoli na kupno przedmiotów w jego sklepach.
