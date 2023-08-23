@@ -52,9 +52,9 @@ sidebar_position: 2
 3.5. Użycie botów w jakiejkolwiek formie jest całkowicie zakazane.
 
 ### Wojna:
-4.1. Aby wypowiedzieć wojnę musisz podać specyficzny dla niej casus belli (powód wojny).
+4.1. Aby wypowiedzieć wojnę powinieneś posiadać casus beli (powód wojny).
 
-4.1.1. Casus belli należy ogłosić na chacie globalnym w minecrafcie przed wypowiedzeniem wojny. Wypowiedzenie wojny bez casus belli może zakończyć się karą. 
+4.1.1. Casus belli należy ogłosić na chacie globalnym w minecrafcie i na kanale #ogłoszenia-rp przed wypowiedzeniem wojny. Wypowiedzenie wojny bez casus belli kończy się karą w postaci zwrotnego casus beli przez nadmierną ekspansję.
 
 4.2. Zakazane jest używanie wiadra z lawą podczas walki.
 

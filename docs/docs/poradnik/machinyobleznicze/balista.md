@@ -1,5 +1,6 @@
 # Balista
 Balista to potężna machina oblężnicza, służąca do zwalczania piechoty. Potrafi ona zabijać przeciwników z dalekiego zasięgu jednym pociskiem. **Balistą można się poruszać, przy czym większa ilość osób pchających ją skutkuje dużo szybszym przemieszczaniem jej.**
+Zbudowanie Balisty wymaga wielorazowego **blueprint'u** (planu), 48 dębowych pni oraz 32 sztuk żelaza.
 <br></br>
 <div class="box">
     <img 
@@ -15,7 +16,11 @@ Balista to potężna machina oblężnicza, służąca do zwalczania piechoty. Po
 <br></br>
 
 ### Jak załadować pocisk?
-Aby załadować pocisk, musisz naszykować 8 sztuk sztabek żelaza, a następnie nacisnąc **PPM** na machinę.
+Do balisty możesz załadować 2 różne pociski:
+- Pocisk zwykły - 8 Sztabek żelaza,
+- Pocisk zapalający - Jedna pochodnia i 8 Sztuk żelaza - aby załadować ten pocisk musisz wziąść do ręki pochodnię i nacisnąć na balistę **PPM**,
+
+Aby załadować dany pocisk naszykuj sobie wymagane przedmioty, a następnie naciśnij **PPM** na zbudowaną machinę.
 
 <br></br>
 

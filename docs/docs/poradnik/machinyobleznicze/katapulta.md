@@ -4,6 +4,7 @@ sidebar_position: 2
 
 # Katapulta
 Katapulta to słabsza od trebusza, jednak niemniej potężna machina, która służy do atakowania murów przeciwnika. **Katapultą można się poruszać, przy czym większa ilość osób pchających ją skutkuje dużo szybszym przemieszczaniem jej.** Katapulta czyni stosunkowo mniejsze zniszczenia od trebuszu, jednak pozwala na częstsze strzelanie.
+Zbudowanie katapulty wymaga wielorazowego **blueprint'u** (planu), 48 dębowych pni oraz 24 sztuk żelaza.
 <br></br>
 <div class="box">
     <img 
@@ -19,7 +20,12 @@ Katapulta to słabsza od trebusza, jednak niemniej potężna machina, która sł
 <br></br>
 
 ### Jak załadować pocisk?
-Aby załadować pocisk, musisz naszykować 4 sztuki kamienia, a następnie nacisnąć **PPM** na machinę.
+Do katapulty możesz załadować 2 różne pociski:
+- Pocisk zwykły - 4 Sztuk kamienia,
+- Pocisk zapalający - Jedna pochodnia i 4 Sztuk kamienia - aby załadować ten pocisk musisz wziąść do ręki pochodnię i nacisnąć na katapultę **PPM**,
+
+Aby załadować dany pocisk naszykuj sobie wymagane przedmioty, a następnie naciśnij **PPM** na zbudowaną machinę.
+
 
 <br></br>
 
