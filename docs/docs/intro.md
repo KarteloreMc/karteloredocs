@@ -8,7 +8,7 @@ Znajdziesz tu wiele ważnych informacji na temat naszego serwera
 
 ![Witamy na Kartelore](./img/kartelorekoronki.png)
 
-- IP: kartelore.pl (1.18.2-1.20.1)
+- IP: kartelore.pl (1.18.2-1.19.4)
 
 ## Unikalny serwer minecraft!
 Kartelore to nowy oraz unikalny w Polsce serwer minecraft, osadzony w XV-wiecznym średniowieczu. Na serwerze jest niezliczenie wiele smaczków dodających klimatu średniowiecza: ok. 50 średniowiecznych broni, machiny oblężnicze i wiele innych!
