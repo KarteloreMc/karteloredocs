@@ -6,18 +6,30 @@ title: Bronie i zbroje
 Na serwerze znajduje się w sumie 80 tarcz, 50 hełmów, ok. 50 różnorodnych broni oraz wiele zbroi.
 ### Typy broni
 Bronie dzielą się na następujące typy:
-- Obuchowe (Np. Maczugi lub ciężkie topory)
+- Obuchowe (Np. Maczugi)
 - Cięte (Zakrzywione miecze, miecze dwuręczne) 
 - Przebijające (Piki, włócznie, lance)
 ### Typy obrażeń
 
 Obuchowe zadają obrażenia obszarowe wookół celu.
+
 ![Obuchowe](./img/aoe.gif)
+
 Cięte zadają obrażenia w stożku.
+
 ![Ciete](./img/slashing.gif)
+
 Przebijające zadają obrażenia za celem.
+
 ![Przebijajace](./img/piercing.gif)
 
+### Rodzaje zbroi
+- Skórzane:
+Jest to najsłabszy rodzaj zbroi, lecz znacznie jest lżejsza dzięki czemu szybciej się poruszasz.
+- Kolczugowe:
+Jest to podstawowy rodzaj zbroi, jest cięższa od skórzanej dzięki czemu wolneij się poruszasz, lecz zapewnia większą ochronę.
+Płytowe:
+- Jest to najlepszy rodzaj zbroi, jest to najcięższa zbroja, co sprawia wolniejsze poruszanie się, lecz zapewnia największą ochronę.
 
 ### Crafting
 Aby zobaczyć receptury na bronie, zbroje, hełmy użyj komendy /receptury.
