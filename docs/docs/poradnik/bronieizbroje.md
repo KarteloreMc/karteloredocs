@@ -25,11 +25,11 @@ Przebijające zadają obrażenia za celem.
 
 ### Rodzaje zbroi
 - Skórzane:
-Jest to najsłabszy rodzaj zbroi, lecz znacznie jest lżejsza dzięki czemu szybciej się poruszasz.
+Jest to najsłabszy rodzaj zbroi, lecz ta jest znacznie lżejsza dzięki czemu szybciej się poruszasz.
 - Kolczugowe:
-Jest to podstawowy rodzaj zbroi, jest cięższa od skórzanej dzięki czemu wolneij się poruszasz, lecz zapewnia większą ochronę.
-Płytowe:
-- Jest to najlepszy rodzaj zbroi, jest to najcięższa zbroja, co sprawia wolniejsze poruszanie się, lecz zapewnia największą ochronę.
+Jest to podstawowy rodzaj zbroi, jest cięższa od skórzanej dzięki czemu wolniej się poruszasz, lecz zapewnia większą ochronę.
+- Płytowe:
+Jest to najlepszy rodzaj zbroi, najcięższa zbroja, co sprawia najwolniejsze poruszanie się, lecz zapewnia największą ochronę.
 
 ### Crafting
 Aby zobaczyć receptury na bronie, zbroje, hełmy użyj komendy /receptury.
