@@ -40,6 +40,8 @@ sidebar_position: 2
 
 2.7. Zakazane jest omijanie AFK.
 
+2.8. Zakazane jest zabijanie członka miasta/państwa w celu otrzymania jego nagrody za głowę.
+
 ### Przewagi w grze:
 3.1. Zakaz używania modów, które dają przewagę, której zwykli gracze nie mogą uzyskać.
 
