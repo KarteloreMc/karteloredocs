@@ -56,7 +56,7 @@ sidebar_position: 2
 ### Wojna:
 4.1. Aby wypowiedzieć wojnę powinieneś posiadać casus beli (powód wojny).
 
-4.1.1. Casus belli należy ogłosić na chacie globalnym w minecrafcie i na kanale #ogłoszenia-rp przed wypowiedzeniem wojny. Wypowiedzenie wojny bez casus belli kończy się karą w postaci zwrotnego casus beli przez nadmierną ekspansję.
+4.1.1. Casus belli należy ogłosić na chacie globalnym w minecrafcie i na kanale #ogłoszenia-rp przed wypowiedzeniem wojny. Wypowiedzenie wojny bez casus belli kończy się karą w postaci zwrotnego casus beli przez nadmierną ekspansję, jednak nawet brak casus beli ma być ogłoszony w odpowiednim miejscu.
 
 4.2. Zakazane jest używanie wiadra z lawą podczas walki.
 
@@ -83,6 +83,12 @@ sidebar_position: 2
 4.11.1. W przypadku ponoszenia porażki w wojnie od jednego państwa zakazane jest szybkie poddawanie się drugiemu państwu w celu uniknięcia bezwarunkowej kapitulacji.
 
 4.12. Wszystkie kapitulacje wynikające z nadużycia błędów, bądź oszustw w grze będą unieważniane przez administrację. W takim przypadku strona pierwotnie zwycięska zostanie ukarana, a zniszczenia wywołane przez nią na przeciwniku zostaną cofnięte przez moderację serwera.
+
+4.13. Wszystkie Balisty i Kotły z Wrzącym Olejem są machinami obronnymi, w związku z tym można je stawiać jedynie na zbudowanych wcześniej fortyfikacjach.
+
+4.13.1. Pozostałe machiny można stawiać w dowolnym miejscu, nawet na zwykłej ziemi.
+
+4.14. Atakowanie dozwolone jest nawet, jak walczące kraje nie posiadają ze sobą granicy lądowej.
 
 ### Państwa i miasta:
 5.1. Zakaz "griefowania" z użyciem błędów pluginów.
