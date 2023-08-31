@@ -90,6 +90,8 @@ sidebar_position: 2
 
 4.14. Atakowanie dozwolone jest nawet, jak walczące kraje nie posiadają ze sobą granicy lądowej.
 
+4.15. Zakazane jest masowe atakowanie innych graczy bez wypowiedzenia wojny. Jest to wtedy uznawane za naruszenie punktu 1.8.
+
 ### Państwa i miasta:
 5.1. Zakaz "griefowania" z użyciem błędów pluginów.
 
