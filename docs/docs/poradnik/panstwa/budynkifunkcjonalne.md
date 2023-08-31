@@ -46,7 +46,7 @@ Każdy typ **rafinerii** ma 3 tiery. Tiery **rafinerii** przypisywane będą prz
 Każda prowincja może mieć po jednej **rafinerii** każdego typu. 
 
 ### Kuźnia
-W kuźni po połączeniu 64 sztuk żelaza, 16 sztuk węgla i 16 sztuk stali otrzymasz jedną, lecz bardzo cenną sztabkę **ciężkiej stali**.
+W kuźni po połączeniu 32 sztuki żelaza, 16 sztuk węgla i 8 sztuk stali otrzymasz jedną, lecz bardzo cenną sztabkę **ciężkiej stali**.
 
 - Aby zobaczyć ekwipunek rafinerii użyj **/rafineria**, stojąc na prowincji, gdzie jest rafineria.
 - Gdy minie określony czas rafineria przetworzy zasoby na **/miasto przychod**.
